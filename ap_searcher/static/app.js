@@ -339,8 +339,6 @@ function runPayload(extra) {
   return Object.assign(
     {
       profile: selectedProfiles().join(",") || null,
-      max_pages: Number($("#max-pages").value) || null,
-      budget: Number($("#budget").value) || null,
       force: $("#force").checked,
     },
     extra

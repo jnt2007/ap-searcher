@@ -53,7 +53,7 @@ Copy `config.example.yaml` to `config.yaml` first — see *Quick start*.
 | `profiles[].neighborhoods` | Optional city parts to keep, e.g. `["Vysočany"]`. Applied to the results after the search — sreality's listing search has no city-part filter — so scope `locality` to the containing district and raise `max_pages` enough to sweep it. Matching ignores case and diacritics. |
 | `profiles[].lat_min/lat_max/lon_min/lon_max` | Optional map bounding box. All four or none; sends sreality's `lat-min/lat-max/lon-min/lon-max`. Narrows the search server-side, so fewer pages and fewer routing calls. |
 | `routing.base_url` | MOTIS instance. Default `https://api.transitous.org`. |
-| `routing.min_interval_s`, `routing.max_requests_per_run` | Rate limit and per-run request budget; the budget is also the default value of the toolbar field. |
+| `routing.min_interval_s`, `routing.max_requests_per_run` | Rate limit and per-run request budget. |
 | `sreality.min_interval_s` | Delay between sreality page fetches. |
 | `cache.*` | DB path and TTLs: `search_ttl_h`, `detail_ttl_d`, `walk_ttl_d`, `transit_ttl_d`. |
 | `scoring.weights` | Weights for the score column. Editable live in the UI; **Save to config.yaml** patches these numbers in place, leaving the rest of the file and its comments untouched. |
@@ -193,9 +193,7 @@ the way to demand the checkbox.
 
 ## The page
 
-**Toolbar** — profile picker, pages per sweep (defaults to the largest `max_pages` in the config;
-~21 listings per page), routing budget (defaults to `routing.max_requests_per_run`), force-refresh
-toggle, and the
+**Toolbar** — profile picker, force-refresh toggle, and the
 actions: *Refresh listings* (search only), *Fetch details* (detail pages + amenities), *Compute
 commutes* (routing only), *Full run*, *Cancel*, *Purge HTTP cache*, *Reload table*. One job runs at
 a time; the progress bar and status line show stage, position and, when finished, how many requests
@@ -274,7 +272,7 @@ a row already looked at.
 
 ## Routing budget
 
-`routing.max_requests_per_run` (and the toolbar field, which overrides it per run) caps the number
+`routing.max_requests_per_run` (or `budget` in a `/api/run` body) caps the number
 of **outbound requests to the routing service in one run** — not the number of listings. Cached
 routes, and walk legs skipped as `too_far`, cost nothing; listings in the same building share one
 request because keys are coordinates rounded to 5 decimals.
@@ -324,7 +322,7 @@ behaviour, routing helpers, pipeline runs against a stubbed fetcher, and the HTT
 |---|---|
 | Warning `filter mismatch` | sreality renamed a query parameter, or the locality slug is unknown. Check the slug in a browser; update `build_search_url` / `check_filters` in `ap_searcher/sreality.py`. |
 | `ParseError: no __NEXT_DATA__` | The site changed shape, or a page returned a consent/error wall. Run with `--debug`. |
-| Warning `request budget … reached` | Raise the routing budget field, or run *Compute commutes* again later — cached routes are not recomputed. |
+| Warning `request budget … reached` | Raise `routing.max_requests_per_run`, or run *Compute commutes* again — cached routes are not recomputed. |
 | Transit cell shows `×` | MOTIS found no itinerary (rural address, or feed gap). |
 | Walk cell shows `–` | Beyond `commute.walk_max_km`, or not computed yet. |
 | Thumbnails blank | The image CDN only serves the whitelisted `?fl=res,100,100,1|jpg,80` transform; bare URLs answer 401. |

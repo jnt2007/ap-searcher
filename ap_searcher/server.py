@@ -138,8 +138,6 @@ class Api:
         return self.env.get_template("index.html.j2").render(
             office=self.cfg.office,
             profiles=[p.name for p in self.cfg.profiles],
-            default_pages=max(p.max_pages for p in self.cfg.profiles),
-            default_budget=self.cfg.routing.max_requests_per_run,
             arrive_human=self.cfg.commute.next_arrival().strftime("%a %d %b, %H:%M"),
         )
 

@@ -114,17 +114,13 @@ def test_listings_expose_publication_dates(cfg, store, search_html, detail_html)
     assert row["edited_on"] == "2026-09-19"
 
 
-def test_page_defaults_to_the_configured_sweep_size(cfg):
-    for profile in cfg.profiles:
-        profile.max_pages = 5
-    html = api(cfg).index_html()
-    assert 'id="max-pages"' in html and 'value="5"' in html
-
-
-def test_routing_budget_defaults_to_the_configured_value(cfg):
-    cfg.routing.max_requests_per_run = 450
-    html = api(cfg).index_html()
-    assert 'id="budget"' in html and 'value="450"' in html
+def test_run_without_overrides_leaves_config_values_in_charge(cfg):
+    # The toolbar sends neither field, so each profile sweeps its own max_pages and
+    # routing stops at routing.max_requests_per_run.
+    jobs = type("J", (), {"start": lambda self, opts, label: {"opts": opts}})()
+    _, payload = Api(cfg, jobs).handle("POST", "/api/run", {}, {"profile": None})
+    assert payload["opts"].max_pages is None
+    assert payload["opts"].routing_budget is None
 
 
 def test_walk_routes_resolve_regardless_of_arrival_week(cfg, store, search_html, detail_html):
