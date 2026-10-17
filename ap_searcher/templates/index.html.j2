@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ap-searcher</title>
+<link rel="stylesheet" href="/static/app.css">
+</head>
+<body>
+<header>
+  <div class="brand">
+    <h1>ap-searcher</h1>
+    <p class="sub">office: <strong>{{ office.name }}</strong> · arrival basis: <strong>{{ arrive_human }}</strong></p>
+  </div>
+  <div class="cache-stats" id="cache-stats"></div>
+</header>
+
+<section class="actions">
+  <label>profile
+    <span class="picker" id="profile-picker">
+      <button type="button" id="profile-btn" aria-expanded="false"
+              title="filter the table and scope a run; none ticked means all profiles">
+        all profiles ▾
+      </button>
+      <span class="picker-menu" id="profile-menu" hidden>
+        {% for p in profiles %}
+        <label class="chk"><input type="checkbox" class="profile-opt" value="{{ p }}"> {{ p }}</label>
+        {% endfor %}
+        <button type="button" id="profile-all" class="ghost">select all</button>
+        <button type="button" id="profile-none" class="ghost">clear</button>
+      </span>
+    </span>
+  </label>
+  <label>pages <input type="number" id="max-pages" min="1" max="50" value="{{ default_pages }}" title="search result pages to sweep (~21 listings each)"></label>
+  <label>routing budget <input type="number" id="budget" min="0" max="5000" value="{{ default_budget }}" title="max routing requests this run; cached routes do not count"></label>
+  <label class="chk"><input type="checkbox" id="force"> force refresh</label>
+
+  <div class="btns">
+    <button id="btn-listings" class="primary">Refresh listings</button>
+    <button id="btn-details">Fetch details</button>
+    <button id="btn-commutes">Compute commutes</button>
+    <button id="btn-full">Full run</button>
+    <button id="btn-cancel" class="danger" disabled>Cancel</button>
+    <button id="btn-purge" class="ghost" title="drop cached HTTP bodies">Purge HTTP cache</button>
+    <button id="btn-reload" class="ghost">Reload table</button>
+  </div>
+</section>
+
+<section class="status" id="status">
+  <div class="bar"><div class="fill" id="bar-fill"></div></div>
+  <div class="line" id="status-line">idle</div>
+  <div class="warn" id="warn-line" hidden></div>
+</section>
+
+<section class="filters">
+  <label>max transit <input type="number" id="f-transit" min="0" step="5" placeholder="min"></label>
+  <label>max walk <input type="number" id="f-walk" min="0" step="5" placeholder="min"></label>
+  <label>price ≥ <input type="number" id="f-price-min" step="1000" placeholder="CZK"></label>
+  <label>price ≤ <input type="number" id="f-price" step="1000" placeholder="CZK"></label>
+  <label>area ≥ <input type="number" id="f-area" step="5" placeholder="m²"></label>
+  <label>search <input type="search" id="f-text" placeholder="street, part, title"></label>
+  <span class="amen-filters">
+    require:
+    <label class="chk"><input type="checkbox" data-amen="parking"> P</label>
+    <label class="chk"><input type="checkbox" data-amen="dishwasher"> D</label>
+    <label class="chk"><input type="checkbox" data-amen="induction"> I</label>
+    <label class="chk"><input type="checkbox" data-amen="bathtub"> B</label>
+    <label class="chk"><input type="checkbox" data-amen="cellar"> C</label>
+    <label class="chk"><input type="checkbox" id="f-strict" title="only structured ✓, ignore ~ text guesses"> strict ✓</label>
+  </span>
+  <span class="furn-filters" title="Ads that leave the field blank (about a third) are excluded while any box is ticked">
+    furnished:
+    <label class="chk"><input type="checkbox" id="f-furnished"> yes</label>
+    <label class="chk"><input type="checkbox" id="f-partly"> partly</label>
+    <label class="chk"><input type="checkbox" id="f-unfurnished"> no</label>
+  </span>
+  <span class="badge-filters">
+    only:
+    <label class="chk"><input type="checkbox" id="f-new" title="first seen in the last 2 days - same rule as the NEW badge"> new</label>
+    <label class="chk"><input type="checkbox" id="f-price-changed" title="price moved between the last two sweeps that recorded it"> price changed</label>
+  </span>
+  <label class="chk"><input type="checkbox" id="f-starred"> starred only</label>
+  <label class="chk"><input type="checkbox" id="f-hidden"> show hidden</label>
+  <label class="chk"><input type="checkbox" id="f-active" checked> active only</label>
+  <button id="btn-weights" class="ghost">Weights…</button>
+  <span class="count" id="count"></span>
+</section>
+
+<section class="weights" id="weights-panel" hidden></section>
+
+<table id="table">
+  <thead>
+    <tr>
+      <th></th>
+      <th data-sort="title">Listing</th>
+      <th data-sort="disposition">Type</th>
+      <th data-sort="area_m2" class="num">m²</th>
+      <th data-sort="price_czk" class="num">Price</th>
+      <th data-sort="price_per_m2" class="num">Kč/m²</th>
+      <th data-sort="city_part">Location</th>
+      <th data-sort="published_on" title="date the ad was published on sreality">Published</th>
+      <th data-sort="transit" class="num">Transit</th>
+      <th data-sort="walk" class="num">Walk</th>
+      <th class="amen" title="Parking">P</th>
+      <th class="amen" title="Dishwasher">D</th>
+      <th class="amen" title="Induction hob">I</th>
+      <th class="amen" title="Bathtub">B</th>
+      <th class="amen" title="Cellar">C</th>
+      <th data-sort="score" class="num">Score</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody id="rows"></tbody>
+</table>
+<p class="foot">
+  Data: <a href="https://www.sreality.cz/" target="_blank" rel="noreferrer">sreality.cz</a> ·
+  routing: <a href="https://transitous.org/" target="_blank" rel="noreferrer">Transitous</a> /
+  <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noreferrer">OpenStreetMap</a>
+</p>
+<script src="/static/app.js"></script>
+</body>
+</html>

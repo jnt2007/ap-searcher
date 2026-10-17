@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+cache.sqlite3
+cache.sqlite3-wal
+cache.sqlite3-shm
+.pytest_cache/
+config.local.yaml
+
+# The live config holds a personal contact address and search profiles;
+# config.example.yaml is the tracked copy.
+config.yaml

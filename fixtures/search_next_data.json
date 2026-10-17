@@ -1,0 +1,3481 @@
+{
+ "props": {
+  "pageProps": {
+   "dehydratedState": {
+    "queries": [
+     {
+      "dehydratedAt": 1789822093064,
+      "state": {
+       "data": {
+        "pagination": {
+         "limit": 22,
+         "offset": 0,
+         "total": 1032,
+         "totalWithPromo": 1082
+        },
+        "results": [
+         {
+          "categoryMainCb": {
+           "name": "Byty",
+           "value": 1
+          },
+          "categorySubCb": {
+           "name": "3+kk",
+           "value": 6
+          },
+          "categoryTypeCb": {
+           "name": "Pronájem",
+           "value": 2
+          },
+          "discountShow": false,
+          "id": 1690837068,
+          "hasMatterport": false,
+          "hasVideo": false,
+          "images": [
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyDrQHrp1H0LiMd/031c.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 1,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKREBG8FVQH0LiMv/12f5.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 1,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRD1EvuBe3H0LiNG/6221.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 1,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKREBG8FVQH0LiNq/1598.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 1,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRDgcHsFKnH0LiN9/832b.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 1,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyC2Er4V1H0LiOT/637a.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 1,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyDrQHrp1H0LiOk/0436.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 1,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyBFnmYBPrH0LiO6/c800.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 1,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyBiPBFVoH0LiPh/9f39.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 1,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyBuWMSVnH0LiQE/2d6f.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 1,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyDrQHrVoH0LiQZ/2fc4.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 1,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRB7OXgVUH0LiRA/ea57.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 1,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRIhAnBEnH0LiRW/095d.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 1,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyBFnmY3xH0LiRp/fbac.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 1,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyvOo9V1H0LiSD/63b3.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 1,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyBHthwVtH0LiSW/3895.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 1,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKREB0TcVkH0LiS1/21d4.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 1,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRZSJd0xH0LiTI/ae99.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 1,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKREBG8FVeH0LiTX/7435.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 1,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKREBG8FVQH0LiTq/0944.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 1,
+            "order": null
+           }
+          ],
+          "locality": {
+           "city": "Praha",
+           "citySeoName": "praha",
+           "cityPart": "Radotín",
+           "cityPartSeoName": "radotin",
+           "country": "Česká republika",
+           "countryId": 112,
+           "district": "Praha 5",
+           "districtId": 5005,
+           "districtSeoName": "praha-5",
+           "entityType": "address",
+           "geoHash": "u2fhqg63kf",
+           "houseNumber": "565",
+           "inaccuracyType": "address",
+           "latitude": 49.9839030299217,
+           "longitude": 14.3624321092341,
+           "municipality": null,
+           "municipalityId": 3468,
+           "municipalitySeoName": null,
+           "quarter": "Praha 16",
+           "quarterId": 101,
+           "region": "Hlavní město Praha",
+           "regionId": 10,
+           "regionSeoName": "hlavni-mesto-praha",
+           "street": "Věštínská",
+           "streetId": 124495,
+           "streetNumber": "2",
+           "streetSeoName": "vestinska",
+           "ward": null,
+           "wardId": 13592,
+           "wardSeoName": null,
+           "zip": null
+          },
+          "name": "Pronájem bytu 3+kk 85 m²",
+          "premiseLogo": "",
+          "premiseId": 20720,
+          "premise": {
+           "seoName": "muj-domov-reality",
+           "wardSeoName": "liben",
+           "quarterSeoName": "praha-8",
+           "citySeoName": "praha"
+          },
+          "priceCzk": 23000,
+          "priceCzkPerSqM": 271,
+          "priceSummaryCzk": 23000,
+          "priceSummaryUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "priceUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "watchdogBadge": "none"
+         },
+         {
+          "categoryMainCb": {
+           "name": "Byty",
+           "value": 1
+          },
+          "categorySubCb": {
+           "name": "3+kk",
+           "value": 6
+          },
+          "categoryTypeCb": {
+           "name": "Pronájem",
+           "value": 2
+          },
+          "discountShow": false,
+          "id": 90124364,
+          "hasMatterport": false,
+          "hasVideo": false,
+          "images": [
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/nQNUzrWdcWBFm9UFiNHq81s7/88ca.jpeg",
+            "restbType": 15,
+            "roomTypeConfidence": 0.9999614953994751,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/nQNUzrWdcWCQ4T4F9LHq817Y/39c7.jpeg",
+            "restbType": 15,
+            "roomTypeConfidence": 0.9998002648353577,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/kBoPC1H7Bt4QtHczHq82Bv/31ba.jpeg",
+            "restbType": 15,
+            "roomTypeConfidence": 0.9999582767486572,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/nQNUzrWdcWBYX3RG9DHq819z/7854.jpeg",
+            "restbType": 15,
+            "roomTypeConfidence": 0.9998705387115479,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/nQNUzrWdcWBFm9UFiNHq82Cf/3466.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/nQNUzrWdcWCQ4T4F1EHq82Cb/2800.jpeg",
+            "restbType": 6,
+            "roomTypeConfidence": 0.998680055141449,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/nQNUzrWdcWDRj4ZETsHq82CR/25d7.jpeg",
+            "restbType": 15,
+            "roomTypeConfidence": 0.9846600890159607,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/nQNUzrWdcWDRj4ZFD4Hq817G/0d33.jpeg",
+            "restbType": 15,
+            "roomTypeConfidence": 0.8978105187416077,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/kBoPC1H7BEAATcBUsHq817P/6d2c.jpeg",
+            "restbType": 15,
+            "roomTypeConfidence": 0.9977905750274658,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/kBoPC1H7BSYLRH4gHq82CZ/7e68.jpeg",
+            "restbType": 5,
+            "roomTypeConfidence": 0.9994415640830994,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/kBoPC1H7BSYLRHyVHq82Ce/ba12.jpeg",
+            "restbType": 5,
+            "roomTypeConfidence": 0.8454932570457458,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/nQNUzrWdcWBR5IICLBHq82Cf/0c76.jpeg",
+            "restbType": 19,
+            "roomTypeConfidence": 0.9540092349052429,
+            "order": null
+           }
+          ],
+          "locality": {
+           "city": "Praha",
+           "citySeoName": "praha",
+           "cityPart": "Nusle",
+           "cityPartSeoName": "nusle",
+           "country": "Česká republika",
+           "countryId": 112,
+           "district": "Praha 4",
+           "districtId": 5004,
+           "districtSeoName": "praha-4",
+           "entityType": "street",
+           "geoHash": "u2fkb97x7c",
+           "houseNumber": null,
+           "inaccuracyType": "gps",
+           "latitude": 50.06183110918987,
+           "longitude": 14.441002623543426,
+           "municipality": null,
+           "municipalityId": 3468,
+           "municipalitySeoName": null,
+           "quarter": "Praha 4",
+           "quarterId": 90,
+           "region": "Hlavní město Praha",
+           "regionId": 10,
+           "regionSeoName": "hlavni-mesto-praha",
+           "street": "Svatoslavova",
+           "streetId": 121988,
+           "streetNumber": null,
+           "streetSeoName": "svatoslavova",
+           "ward": null,
+           "wardId": 14960,
+           "wardSeoName": null,
+           "zip": null
+          },
+          "name": "Pronájem bytu 3+kk 92 m²",
+          "premiseLogo": "https://d48-a.sdn.cz/d_48/c_img_H_D/ZAlBqQq.png",
+          "premiseId": 14953,
+          "premise": {
+           "seoName": "hx-reality",
+           "wardSeoName": "nove-mesto",
+           "quarterSeoName": "praha-1",
+           "citySeoName": "praha"
+          },
+          "priceCzk": 27900,
+          "priceCzkPerSqM": 303,
+          "priceSummaryCzk": 27900,
+          "priceSummaryUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "priceUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "watchdogBadge": "none"
+         },
+         {
+          "categoryMainCb": {
+           "name": "Byty",
+           "value": 1
+          },
+          "categorySubCb": {
+           "name": "2+kk",
+           "value": 4
+          },
+          "categoryTypeCb": {
+           "name": "Pronájem",
+           "value": 2
+          },
+          "discountShow": false,
+          "id": 1766797388,
+          "hasMatterport": false,
+          "hasVideo": false,
+          "images": [
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/kBoPC1H7BBGaWeD77Hq8KbX/5f07.jpeg",
+            "restbType": 15,
+            "roomTypeConfidence": 0.9999252557754517,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/kBoPC1H7BB7L0fDqbHq8KZ7/603f.jpeg",
+            "restbType": 15,
+            "roomTypeConfidence": 0.9974303841590881,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/kBoPC1H7Bt4QtHUoHq8KbV/4586.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/kBoPC1H7BBGaWeELhHq8Kae/809d.jpeg",
+            "restbType": 15,
+            "roomTypeConfidence": 0.9929623007774353,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/nQNUzrWdcWBhOhxCKvHq8KaQ/c6b6.jpeg",
+            "restbType": 5,
+            "roomTypeConfidence": 0.9426884055137634,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/kBoPC1H7BDgXePGnsHq8KbS/4b54.jpeg",
+            "restbType": 6,
+            "roomTypeConfidence": 0.9977191090583801,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/kBoPC1H7BSYLRHyVHq8Kd9/b60c.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/kBoPC1H7BNH3rEblHq8KeA/d462.jpeg",
+            "restbType": 10,
+            "roomTypeConfidence": 0.9943401217460632,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/kBoPC1H7BDgXePGnoHq8KeG/67d4.jpeg",
+            "restbType": 10,
+            "roomTypeConfidence": 0.996917724609375,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/kBoPC1H7BSYLRHtwHq8KeH/3dda.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           }
+          ],
+          "locality": {
+           "city": "Praha",
+           "citySeoName": "praha",
+           "cityPart": "Nusle",
+           "cityPartSeoName": "nusle",
+           "country": "Česká republika",
+           "countryId": 112,
+           "district": "Praha 4",
+           "districtId": 5004,
+           "districtSeoName": "praha-4",
+           "entityType": "street",
+           "geoHash": "u2fkb2xdmd",
+           "houseNumber": null,
+           "inaccuracyType": "gps",
+           "latitude": 50.056856360463996,
+           "longitude": 14.435587227344515,
+           "municipality": null,
+           "municipalityId": 3468,
+           "municipalitySeoName": null,
+           "quarter": "Praha 4",
+           "quarterId": 90,
+           "region": "Hlavní město Praha",
+           "regionId": 10,
+           "regionSeoName": "hlavni-mesto-praha",
+           "street": "náměstí Hrdinů",
+           "streetId": 122972,
+           "streetNumber": null,
+           "streetSeoName": "namesti-hrdinu",
+           "ward": null,
+           "wardId": 14960,
+           "wardSeoName": null,
+           "zip": null
+          },
+          "name": "Pronájem bytu 2+kk 50 m²",
+          "premiseLogo": "https://d48-a.sdn.cz/d_48/c_img_H_D/ZAlBqQq.png",
+          "premiseId": 14953,
+          "premise": {
+           "seoName": "hx-reality",
+           "wardSeoName": "nove-mesto",
+           "quarterSeoName": "praha-1",
+           "citySeoName": "praha"
+          },
+          "priceCzk": 18000,
+          "priceCzkPerSqM": 360,
+          "priceSummaryCzk": 18000,
+          "priceSummaryUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "priceUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "watchdogBadge": "none"
+         },
+         {
+          "categoryMainCb": {
+           "name": "Byty",
+           "value": 1
+          },
+          "categorySubCb": {
+           "name": "2+kk",
+           "value": 4
+          },
+          "categoryTypeCb": {
+           "name": "Pronájem",
+           "value": 2
+          },
+          "discountShow": false,
+          "id": 1487614028,
+          "hasMatterport": false,
+          "hasVideo": false,
+          "images": [
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/nPYADvcUkmCfYovB6THpifUe/da3d.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 0.998508870601654,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/kPVqmweP7JB3Lg9CTEHpifWV/0711.jpeg",
+            "restbType": 16,
+            "roomTypeConfidence": 0.997635006904602,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/nPYADvcUkmBcG9PymHpifBB/3804.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 0.9778973460197449,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/kPVqmweP7JCNF9HGzrHpifVu/2cb1.jpeg",
+            "restbType": 10,
+            "roomTypeConfidence": 0.9931437969207764,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/nPYADvcUkmBzBfmDYHHpifUe/d841.jpeg",
+            "restbType": 6,
+            "roomTypeConfidence": 0.9997566342353821,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/nPYADvcUkmDNojLCMKHpifRv/2149.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/nPYADvcUkmDcXILBdoHpifWD/6c7b.jpeg",
+            "restbType": 3,
+            "roomTypeConfidence": 0.9578214883804321,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/kPVqmweP7JBiRmGJURHpifVu/9c2c.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/kPVqmweP7JD9RxnKOjHpifPd/7d02.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/kPVqmweP7JBuatXDBmHpifmE/9684.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/kPVqmweP7JBdV1WCkVHpifmS/4ecf.jpeg",
+            "restbType": 21,
+            "roomTypeConfidence": 0.9996441602706909,
+            "order": null
+           }
+          ],
+          "locality": {
+           "city": "Praha",
+           "citySeoName": "praha",
+           "cityPart": "Letňany",
+           "cityPartSeoName": "letnany",
+           "country": "Česká republika",
+           "countryId": 112,
+           "district": "Praha 9",
+           "districtId": 5009,
+           "districtSeoName": "praha-9",
+           "entityType": "street",
+           "geoHash": "u2fm4rg8w0",
+           "houseNumber": null,
+           "inaccuracyType": "gps",
+           "latitude": 50.14031518538083,
+           "longitude": 14.518003463745119,
+           "municipality": null,
+           "municipalityId": 3468,
+           "municipalitySeoName": null,
+           "quarter": "Praha 18",
+           "quarterId": 128,
+           "region": "Hlavní město Praha",
+           "regionId": 10,
+           "regionSeoName": "hlavni-mesto-praha",
+           "street": "Beranových",
+           "streetId": 119638,
+           "streetNumber": null,
+           "streetSeoName": "beranovych",
+           "ward": null,
+           "wardId": 13717,
+           "wardSeoName": null,
+           "zip": null
+          },
+          "name": "Pronájem bytu 2+kk 62 m²",
+          "premiseLogo": "https://d48-a.sdn.cz/d_48/c_img_H_D/ZAlBqQq.png",
+          "premiseId": 14953,
+          "premise": {
+           "seoName": "hx-reality",
+           "wardSeoName": "nove-mesto",
+           "quarterSeoName": "praha-1",
+           "citySeoName": "praha"
+          },
+          "priceCzk": 20000,
+          "priceCzkPerSqM": 323,
+          "priceSummaryCzk": 20000,
+          "priceSummaryUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "priceUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "watchdogBadge": "none"
+         },
+         {
+          "categoryMainCb": {
+           "name": "Byty",
+           "value": 1
+          },
+          "categorySubCb": {
+           "name": "3+kk",
+           "value": 6
+          },
+          "categoryTypeCb": {
+           "name": "Pronájem",
+           "value": 2
+          },
+          "discountShow": false,
+          "id": 4214931532,
+          "hasMatterport": false,
+          "hasVideo": false,
+          "images": [
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_B/nPYADvcUkmBcG9PF1AHeDRG1/bdde.png",
+            "restbType": 5,
+            "roomTypeConfidence": 0.9999407529830933,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_B/nPYADvcUkmDNojLCnJHeDRVl/bc20.png",
+            "restbType": 15,
+            "roomTypeConfidence": 0.9994365572929382,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_B/kPVqmweP7JBcGUhCIlHeDRaK/587c.png",
+            "restbType": 15,
+            "roomTypeConfidence": 0.9981641173362732,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_B/nPYADvcUkmDNojLCnJHeDRZK/73d2.png",
+            "restbType": 10,
+            "roomTypeConfidence": 0.9990373849868774,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_B/kPVqmweP7JBIZIOCzVHeDRZU/7e89.png",
+            "restbType": 10,
+            "roomTypeConfidence": 0.9739860892295837,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_B/nPYADvcUkmDcXILDbTHeDRZ3/c945.png",
+            "restbType": 15,
+            "roomTypeConfidence": 0.9998377561569214,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_B/kPVqmweP7JBIZIOCnRHeDRZr/99f2.png",
+            "restbType": 15,
+            "roomTypeConfidence": 0.9997171759605408,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_B/kPVqmweP7JDPI8sBDTHeDRaY/ccd5.png",
+            "restbType": 6,
+            "roomTypeConfidence": 0.9999603033065796,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_B/nPYADvcUkmDNojLCrsHeDRaW/4042.png",
+            "restbType": 6,
+            "roomTypeConfidence": 0.9998050332069397,
+            "order": null
+           }
+          ],
+          "locality": {
+           "city": "Praha",
+           "citySeoName": "praha",
+           "cityPart": "Kobylisy",
+           "cityPartSeoName": "kobylisy",
+           "country": "Česká republika",
+           "countryId": 112,
+           "district": "Praha 8",
+           "districtId": 5008,
+           "districtSeoName": "praha-8",
+           "entityType": "street",
+           "geoHash": "u2fm0ugr5k",
+           "houseNumber": null,
+           "inaccuracyType": "gps",
+           "latitude": 50.124973609967874,
+           "longitude": 14.4516322016716,
+           "municipality": null,
+           "municipalityId": 3468,
+           "municipalitySeoName": null,
+           "quarter": "Praha 8",
+           "quarterId": 115,
+           "region": "Hlavní město Praha",
+           "regionId": 10,
+           "regionSeoName": "hlavni-mesto-praha",
+           "street": "Horňátecká",
+           "streetId": 119736,
+           "streetNumber": null,
+           "streetSeoName": "hornatecka",
+           "ward": null,
+           "wardId": 13706,
+           "wardSeoName": null,
+           "zip": null
+          },
+          "name": "Pronájem bytu 3+kk 80 m²",
+          "premiseLogo": "https://d48-a.sdn.cz/d_48/c_img_H_D/ZAlBqQq.png",
+          "premiseId": 14953,
+          "premise": {
+           "seoName": "hx-reality",
+           "wardSeoName": "nove-mesto",
+           "quarterSeoName": "praha-1",
+           "citySeoName": "praha"
+          },
+          "priceCzk": 25000,
+          "priceCzkPerSqM": 312,
+          "priceSummaryCzk": 25000,
+          "priceSummaryUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "priceUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "watchdogBadge": "none"
+         },
+         {
+          "categoryMainCb": {
+           "name": "Byty",
+           "value": 1
+          },
+          "categorySubCb": {
+           "name": "2+kk",
+           "value": 4
+          },
+          "categoryTypeCb": {
+           "name": "Pronájem",
+           "value": 2
+          },
+          "discountShow": false,
+          "id": 917557324,
+          "hasMatterport": false,
+          "hasVideo": false,
+          "images": [
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_A/nO573v8MsNCpgA9IbNHaEe6r/6598.png",
+            "restbType": 5,
+            "roomTypeConfidence": 0.9157785773277283,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_A/kO7lxrd9zlCcay5irxHaEe8P/adea.png",
+            "restbType": 5,
+            "roomTypeConfidence": 0.9882241487503052,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_A/nO573v8MsNCpgA9IbNHaEe4W/883c.png",
+            "restbType": 15,
+            "roomTypeConfidence": 0.9997155070304871,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_A/kO7lxrd9zlCpCkJlIaHaEebz/4a3b.png",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_A/nO573v8MsNRYZhDC2HaEevV/3764.png",
+            "restbType": 15,
+            "roomTypeConfidence": 0.9997871518135071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_A/nO573v8MsND2JCbJ4EHaEeyA/5165.png",
+            "restbType": 15,
+            "roomTypeConfidence": 0.9996881484985352,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_A/nO573v8MsND1brdFA7HaEe7G/a702.png",
+            "restbType": 10,
+            "roomTypeConfidence": 0.9820643663406372,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_A/nO573v8MsND1brdFBeHaEe8Q/c130.png",
+            "restbType": 6,
+            "roomTypeConfidence": 0.9998062252998352,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_A/nO573v8MsNRYZhDC2HaEe8p/8ca6.png",
+            "restbType": 6,
+            "roomTypeConfidence": 0.9987033605575562,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_A/kO7lxrd9zlCcay5irlHaEe81/0bef.png",
+            "restbType": 6,
+            "roomTypeConfidence": 0.9998346567153931,
+            "order": null
+           }
+          ],
+          "locality": {
+           "city": "Praha",
+           "citySeoName": "praha",
+           "cityPart": "Vinohrady",
+           "cityPartSeoName": "vinohrady",
+           "country": "Česká republika",
+           "countryId": 112,
+           "district": "Praha 2",
+           "districtId": 5002,
+           "districtSeoName": "praha-2",
+           "entityType": "street",
+           "geoHash": "u2fkbs4hqr",
+           "houseNumber": null,
+           "inaccuracyType": "gps",
+           "latitude": 50.076454462282186,
+           "longitude": 14.439052641391756,
+           "municipality": null,
+           "municipalityId": 3468,
+           "municipalitySeoName": null,
+           "quarter": "Praha 2",
+           "quarterId": 88,
+           "region": "Hlavní město Praha",
+           "regionId": 10,
+           "regionSeoName": "hlavni-mesto-praha",
+           "street": "Blanická",
+           "streetId": 119302,
+           "streetNumber": null,
+           "streetSeoName": "blanicka",
+           "ward": null,
+           "wardId": 14967,
+           "wardSeoName": null,
+           "zip": null
+          },
+          "name": "Pronájem bytu 2+kk 55 m²",
+          "premiseLogo": "https://d48-a.sdn.cz/d_48/c_img_H_D/ZAlBqQq.png",
+          "premiseId": 14953,
+          "premise": {
+           "seoName": "hx-reality",
+           "wardSeoName": "nove-mesto",
+           "quarterSeoName": "praha-1",
+           "citySeoName": "praha"
+          },
+          "priceCzk": 22000,
+          "priceCzkPerSqM": 400,
+          "priceSummaryCzk": 22000,
+          "priceSummaryUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "priceUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "watchdogBadge": "none"
+         },
+         {
+          "categoryMainCb": {
+           "name": "Byty",
+           "value": 1
+          },
+          "categorySubCb": {
+           "name": "3+kk",
+           "value": 6
+          },
+          "categoryTypeCb": {
+           "name": "Pronájem",
+           "value": 2
+          },
+          "discountShow": false,
+          "id": 855498828,
+          "hasMatterport": false,
+          "hasVideo": false,
+          "images": [
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qD_B/nO2CysqjGrRICCs2hHKkrHZ/3253.png",
+            "restbType": 2,
+            "roomTypeConfidence": 0.9479928612709045,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qD_B/kQMlcCt5zmwiaBpSFHKkrHi/7566.png",
+            "restbType": 2,
+            "roomTypeConfidence": 0.9294480681419373,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qD_B/kQMlcCt5zmUKhkomHHKkrFv/2d4d.png",
+            "restbType": 10,
+            "roomTypeConfidence": 0.9083998799324036,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qD_B/kQMlcCt5zmC5zFHpFvHKkrET/7855.png",
+            "restbType": 4,
+            "roomTypeConfidence": 0.9960519671440125,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qD_B/kQMlcCt5zmChFvGo9YHKkrHq/4327.png",
+            "restbType": 4,
+            "roomTypeConfidence": 0.9828130602836609,
+            "order": null
+           }
+          ],
+          "locality": {
+           "city": "Praha",
+           "citySeoName": "praha",
+           "cityPart": "Nusle",
+           "cityPartSeoName": "nusle",
+           "country": "Česká republika",
+           "countryId": 112,
+           "district": "Praha 4",
+           "districtId": 5004,
+           "districtSeoName": "praha-4",
+           "entityType": "street",
+           "geoHash": "u2fkb97x6v",
+           "houseNumber": null,
+           "inaccuracyType": "gps",
+           "latitude": 50.06184944784983,
+           "longitude": 14.440960287511148,
+           "municipality": null,
+           "municipalityId": 3468,
+           "municipalitySeoName": null,
+           "quarter": "Praha 4",
+           "quarterId": 90,
+           "region": "Hlavní město Praha",
+           "regionId": 10,
+           "regionSeoName": "hlavni-mesto-praha",
+           "street": "Svatoslavova",
+           "streetId": 121988,
+           "streetNumber": null,
+           "streetSeoName": "svatoslavova",
+           "ward": null,
+           "wardId": 14960,
+           "wardSeoName": null,
+           "zip": null
+          },
+          "name": "Pronájem bytu 3+kk 86 m²",
+          "premiseLogo": "https://d48-a.sdn.cz/d_48/c_img_H_D/ZAlBqQq.png",
+          "premiseId": 14953,
+          "premise": {
+           "seoName": "hx-reality",
+           "wardSeoName": "nove-mesto",
+           "quarterSeoName": "praha-1",
+           "citySeoName": "praha"
+          },
+          "priceCzk": 27600,
+          "priceCzkPerSqM": 321,
+          "priceSummaryCzk": 27600,
+          "priceSummaryUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "priceUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "watchdogBadge": "none"
+         },
+         {
+          "categoryMainCb": {
+           "name": "Byty",
+           "value": 1
+          },
+          "categorySubCb": {
+           "name": "2+kk",
+           "value": 4
+          },
+          "categoryTypeCb": {
+           "name": "Pronájem",
+           "value": 2
+          },
+          "discountShow": false,
+          "id": 1764679756,
+          "hasMatterport": false,
+          "hasVideo": true,
+          "images": [
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRBOXzTi2Hzw4pI/3bd2.jpeg",
+            "restbType": 5,
+            "roomTypeConfidence": 0.9999420642852783,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRDgcHsCI7Hzw4ps/b681.jpeg",
+            "restbType": 17,
+            "roomTypeConfidence": 0.8761698603630066,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyD4lWfCHaHzw4qY/c7b4.jpeg",
+            "restbType": 28,
+            "roomTypeConfidence": 0.9794135093688965,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyCly89B1bHzw4rB/0d11.jpeg",
+            "restbType": 21,
+            "roomTypeConfidence": 0.9985484480857849,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyBiPBFBNmHzw4rk/7b8a.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyBuWMSVmHzw4sJ/6ca7.jpeg",
+            "restbType": 5,
+            "roomTypeConfidence": 0.9999270439147949,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRD1EvuBmdHzw4ss/791a.jpeg",
+            "restbType": 15,
+            "roomTypeConfidence": 0.802737295627594,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRDgcHsCCsHzw4tR/8f67.jpeg",
+            "restbType": 6,
+            "roomTypeConfidence": 0.9998551607131958,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyBiPBFBNmHzw4tx/c3a0.jpeg",
+            "restbType": 15,
+            "roomTypeConfidence": 0.9782151579856873,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRDgcHsCCsHzw4uT/bf89.jpeg",
+            "restbType": 15,
+            "roomTypeConfidence": 0.998346209526062,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyCly89B09Hzw4u7/f2df.jpeg",
+            "restbType": 16,
+            "roomTypeConfidence": 0.9914074540138245,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyvOo9BubHzw4vo/5cb5.jpeg",
+            "restbType": 16,
+            "roomTypeConfidence": 0.9126045107841492,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRD1EvuVSHzw4wZ/9f51.jpeg",
+            "restbType": 17,
+            "roomTypeConfidence": 0.9466826319694519,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyCi6LRVmHzw4w3/8d18.jpeg",
+            "restbType": 8,
+            "roomTypeConfidence": 0.8866655230522156,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRD1EvuBkdHzw4xe/bbdc.jpeg",
+            "restbType": 10,
+            "roomTypeConfidence": 0.9854959845542908,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyCi6LRB5eHzw4yB/d911.jpeg",
+            "restbType": 28,
+            "roomTypeConfidence": 0.8406106233596802,
+            "order": null
+           }
+          ],
+          "locality": {
+           "city": "Praha",
+           "citySeoName": "praha",
+           "cityPart": "Žižkov",
+           "cityPartSeoName": "zizkov",
+           "country": "Česká republika",
+           "countryId": 112,
+           "district": "Praha 3",
+           "districtId": 5003,
+           "districtSeoName": "praha-3",
+           "entityType": "address",
+           "geoHash": "u2fkcrqdsv",
+           "houseNumber": "2909",
+           "inaccuracyType": "gps",
+           "latitude": 50.0939937129,
+           "longitude": 14.4781293376,
+           "municipality": null,
+           "municipalityId": 3468,
+           "municipalitySeoName": null,
+           "quarter": "Praha 3",
+           "quarterId": 89,
+           "region": "Hlavní město Praha",
+           "regionId": 10,
+           "regionSeoName": "hlavni-mesto-praha",
+           "street": "Kunešova",
+           "streetId": 124721,
+           "streetNumber": "5",
+           "streetSeoName": "kunesova",
+           "ward": null,
+           "wardId": 14971,
+           "wardSeoName": null,
+           "zip": null
+          },
+          "name": "Pronájem bytu 2+kk 49 m²",
+          "premiseLogo": "https://d48-a.sdn.cz/d_48/c_img_oc_A/kcukOQcMmRUmqDSBEGOJRW/610d.png",
+          "premiseId": 75583,
+          "premise": {
+           "seoName": "roi-estate",
+           "wardSeoName": "zidenice",
+           "quarterSeoName": "brno-zidenice",
+           "citySeoName": "brno"
+          },
+          "priceCzk": 28490,
+          "priceCzkPerSqM": 581,
+          "priceSummaryCzk": 28490,
+          "priceSummaryUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "priceUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "watchdogBadge": "none"
+         },
+         {
+          "categoryMainCb": {
+           "name": "Byty",
+           "value": 1
+          },
+          "categorySubCb": {
+           "name": "2+kk",
+           "value": 4
+          },
+          "categoryTypeCb": {
+           "name": "Pronájem",
+           "value": 2
+          },
+          "discountShow": false,
+          "id": 1574355020,
+          "hasMatterport": false,
+          "hasVideo": false,
+          "images": [
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/nOdL4BtPEyBHthwWxHraaXM/d8d3.jpeg",
+            "restbType": 15,
+            "roomTypeConfidence": 0.9243131875991821,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/k0OqwCKRD1EvuCIYHraaXx/6263.jpeg",
+            "restbType": 5,
+            "roomTypeConfidence": 0.9448768496513367,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/nOdL4BtPEyvOo9BcvHraaYo/220a.jpeg",
+            "restbType": 15,
+            "roomTypeConfidence": 0.9607643485069275,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/nOdL4BtPEyC2Er40sHraaZQ/6413.jpeg",
+            "restbType": 6,
+            "roomTypeConfidence": 0.9569457769393921,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_A/nOdL4BtPEyC2Er4soHraaZz/47d2.jpeg",
+            "restbType": 10,
+            "roomTypeConfidence": 0.9507160782814026,
+            "order": null
+           }
+          ],
+          "locality": {
+           "city": "Praha",
+           "citySeoName": "praha",
+           "cityPart": "Vršovice",
+           "cityPartSeoName": "vrsovice",
+           "country": "Česká republika",
+           "countryId": 112,
+           "district": "Praha 10",
+           "districtId": 5010,
+           "districtSeoName": "praha-10",
+           "entityType": "address",
+           "geoHash": "u2fkbg04mp",
+           "houseNumber": "275",
+           "inaccuracyType": "gps",
+           "latitude": 50.0706180481,
+           "longitude": 14.4472421947,
+           "municipality": null,
+           "municipalityId": 3468,
+           "municipalitySeoName": null,
+           "quarter": "Praha 10",
+           "quarterId": 132,
+           "region": "Hlavní město Praha",
+           "regionId": 10,
+           "regionSeoName": "hlavni-mesto-praha",
+           "street": "Donská",
+           "streetId": 119520,
+           "streetNumber": "9",
+           "streetSeoName": "donska",
+           "ward": null,
+           "wardId": 14968,
+           "wardSeoName": null,
+           "zip": null
+          },
+          "name": "Pronájem bytu 2+kk 51 m²",
+          "premiseLogo": "https://d48-a.sdn.cz/d_48/c_img_QI_y/DbiKP5.png",
+          "premiseId": 10628,
+          "premise": {
+           "seoName": "engel-volkers",
+           "wardSeoName": "smichov",
+           "quarterSeoName": "praha-5",
+           "citySeoName": "praha"
+          },
+          "priceCzk": 29000,
+          "priceCzkPerSqM": 569,
+          "priceSummaryCzk": 29000,
+          "priceSummaryUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "priceUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "watchdogBadge": "none"
+         },
+         {
+          "categoryMainCb": {
+           "name": "Byty",
+           "value": 1
+          },
+          "categorySubCb": {
+           "name": "2+kk",
+           "value": 4
+          },
+          "categoryTypeCb": {
+           "name": "Pronájem",
+           "value": 2
+          },
+          "discountShow": false,
+          "id": 3285573708,
+          "hasMatterport": false,
+          "hasVideo": false,
+          "images": [
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qD_F/kOyy3Gv43yC3TVQWpHVH7pa/4bea.jpeg",
+            "restbType": 2,
+            "roomTypeConfidence": 0.8755125403404236,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qD_F/nEwftpXyZCHYHob0eHVH7p2/4f88.jpeg",
+            "restbType": 5,
+            "roomTypeConfidence": 0.9996302127838135,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qD_F/nEwftpXyZDMeBxaM6HVH7qV/b4b9.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qD_F/kOyy3Gv43yDwtd2mxHVH7q2/fd55.jpeg",
+            "restbType": 5,
+            "roomTypeConfidence": 0.9404129981994629,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qD_F/kOyy3Gv43yC3TVQztHVH7ra/be25.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 0.998348593711853,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qD_F/kOyy3Gv43yDRXV9WsHVH7r6/37e2.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 0.8118311166763306,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qD_F/kOyy3Gv43yCpHP2WoHVH7se/7aaf.jpeg",
+            "restbType": 6,
+            "roomTypeConfidence": 0.9527185559272766,
+            "order": null
+           }
+          ],
+          "locality": {
+           "city": "Praha",
+           "citySeoName": "praha",
+           "cityPart": "Stodůlky",
+           "cityPartSeoName": "stodulky",
+           "country": "Česká republika",
+           "countryId": 112,
+           "district": "Praha 5",
+           "districtId": 5005,
+           "districtSeoName": "praha-5",
+           "entityType": "address",
+           "geoHash": "u2fhtwuwmn",
+           "houseNumber": "1011",
+           "inaccuracyType": "gps",
+           "latitude": 50.0479503101,
+           "longitude": 14.3105975636,
+           "municipality": null,
+           "municipalityId": 3468,
+           "municipalitySeoName": null,
+           "quarter": "Praha 13",
+           "quarterId": 98,
+           "region": "Hlavní město Praha",
+           "regionId": 10,
+           "regionSeoName": "hlavni-mesto-praha",
+           "street": "K Brance",
+           "streetId": 124671,
+           "streetNumber": "17",
+           "streetSeoName": "k-brance",
+           "ward": null,
+           "wardId": 14962,
+           "wardSeoName": null,
+           "zip": null
+          },
+          "name": "Pronájem bytu 2+kk 60 m²",
+          "premiseLogo": "https://d48-a.sdn.cz/d_48/c_img_QI_y/DbiKP5.png",
+          "premiseId": 10628,
+          "premise": {
+           "seoName": "engel-volkers",
+           "wardSeoName": "smichov",
+           "quarterSeoName": "praha-5",
+           "citySeoName": "praha"
+          },
+          "priceCzk": 30000,
+          "priceCzkPerSqM": 500,
+          "priceSummaryCzk": 30000,
+          "priceSummaryUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "priceUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "watchdogBadge": "none"
+         },
+         {
+          "categoryMainCb": {
+           "name": "Byty",
+           "value": 1
+          },
+          "categorySubCb": {
+           "name": "2+kk",
+           "value": 4
+          },
+          "categoryTypeCb": {
+           "name": "Pronájem",
+           "value": 2
+          },
+          "discountShow": false,
+          "id": 3111571532,
+          "hasMatterport": false,
+          "hasVideo": false,
+          "images": [
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_B/nPYADvcUkmCbUhRCXCHeRsEF/267f.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_B/kPVqmweP7JB25pTByjHeRsEa/d762.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 0.9813514351844788,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_B/kPVqmweP7JDPI8sBCFHeRsEv/625c.jpeg",
+            "restbType": 15,
+            "roomTypeConfidence": 0.999832272529602,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_B/nPYADvcUkmBFAg3BtQHeRsFI/8e9c.jpeg",
+            "restbType": 15,
+            "roomTypeConfidence": 0.999352753162384,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_B/kPVqmweP7JC1dLSWkHeRsIN/4d44.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_B/kPVqmweP7JC1dLSh8HeRsJf/4ef5.jpeg",
+            "restbType": 5,
+            "roomTypeConfidence": 0.9595904350280762,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_B/nPYADvcUkmDOhBEChCHeRsJ2/0737.jpeg",
+            "restbType": 5,
+            "roomTypeConfidence": 0.9900195598602295,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_B/nPYADvcUkmDj2BMBlaHeRsKM/d552.jpeg",
+            "restbType": 5,
+            "roomTypeConfidence": 0.9984207153320312,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_B/nPYADvcUkmCbUhRCXCHeRsKf/691d.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_B/nPYADvcUkmBcsRhBorHeRsK4/5cd3.jpeg",
+            "restbType": 6,
+            "roomTypeConfidence": 0.9982725381851196,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_B/kPVqmweP7JDPI8sWmHeRsLe/db03.jpeg",
+            "restbType": 6,
+            "roomTypeConfidence": 0.998740017414093,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_B/kPVqmweP7JHlV8DhVHeRsL0/c7a4.jpeg",
+            "restbType": 22,
+            "roomTypeConfidence": 0.9992749094963074,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_B/nPYADvcUkmBcG9PCFpHeRsMK/f341.jpeg",
+            "restbType": 22,
+            "roomTypeConfidence": 0.9999827146530151,
+            "order": null
+           }
+          ],
+          "locality": {
+           "city": "Praha",
+           "citySeoName": "praha",
+           "cityPart": "Nové Město",
+           "cityPartSeoName": "nove-mesto",
+           "country": "Česká republika",
+           "countryId": 112,
+           "district": "Praha 2",
+           "districtId": 5002,
+           "districtSeoName": "praha-2",
+           "entityType": "address",
+           "geoHash": "u2fkb5z41v",
+           "houseNumber": null,
+           "inaccuracyType": "street",
+           "latitude": 50.0746851892942,
+           "longitude": 14.4237557925681,
+           "municipality": null,
+           "municipalityId": 3468,
+           "municipalitySeoName": null,
+           "quarter": "Praha 2",
+           "quarterId": 88,
+           "region": "Hlavní město Praha",
+           "regionId": 10,
+           "regionSeoName": "hlavni-mesto-praha",
+           "street": "Lípová",
+           "streetId": 120394,
+           "streetNumber": null,
+           "streetSeoName": "lipova",
+           "ward": null,
+           "wardId": 14959,
+           "wardSeoName": null,
+           "zip": null
+          },
+          "name": "Pronájem bytu 2+kk 41 m²",
+          "premiseLogo": "https://d48-a.sdn.cz/d_48/c_img_m1_A/kPUxThnZnwUqsBc2.png",
+          "premiseId": 14830,
+          "premise": {
+           "seoName": "yes-home",
+           "wardSeoName": "zizkov",
+           "quarterSeoName": "",
+           "citySeoName": "praha"
+          },
+          "priceCzk": 22500,
+          "priceCzkPerSqM": 549,
+          "priceSummaryCzk": 22500,
+          "priceSummaryUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "priceUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "watchdogBadge": "none"
+         },
+         {
+          "categoryMainCb": {
+           "name": "Byty",
+           "value": 1
+          },
+          "categorySubCb": {
+           "name": "2+kk",
+           "value": 4
+          },
+          "categoryTypeCb": {
+           "name": "Pronájem",
+           "value": 2
+          },
+          "discountShow": false,
+          "id": 279298124,
+          "hasMatterport": false,
+          "hasVideo": false,
+          "images": [
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmCbUhRCFdHoe0S9/d007.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmBFAg3B9nHoe0TU/2549.jpeg",
+            "restbType": 15,
+            "roomTypeConfidence": 0.9067814946174622,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JDZwL3BrYHoe0Tn/764b.jpeg",
+            "restbType": 15,
+            "roomTypeConfidence": 0.9209705591201782,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JCpoDkBuxHoe0T9/5d9f.jpeg",
+            "restbType": 5,
+            "roomTypeConfidence": 0.9741945266723633,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JYnYGWrHoe0Us/0f0c.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JYnYGWpHoe0Vq/2250.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmBcsRhWeHoe0WP/8489.jpeg",
+            "restbType": 15,
+            "roomTypeConfidence": 0.9379933476448059,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmBcG9PCA2Hoe0Wm/7c37.jpeg",
+            "restbType": 15,
+            "roomTypeConfidence": 0.9620496034622192,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JBuatXCHeHoe0W4/1170.jpeg",
+            "restbType": 6,
+            "roomTypeConfidence": 0.9614761471748352,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmDOhBEWcHoe0XU/f719.jpeg",
+            "restbType": 6,
+            "roomTypeConfidence": 0.9347761273384094,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmBcG9PB5UHoe0Xm/4036.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmDcXIL42Hoe0YA/d13e.jpeg",
+            "restbType": 10,
+            "roomTypeConfidence": 0.9019521474838257,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JD9RxnWkHoe0Ya/c04a.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JCpoDkCAjHoe0Yx/0d08.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmDNojLCGgHoe0ZG/fd20.jpeg",
+            "restbType": 28,
+            "roomTypeConfidence": 0.942602813243866,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmCfYovWfHoe0ZZ/642d.jpeg",
+            "restbType": 28,
+            "roomTypeConfidence": 0.9153993725776672,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmBFAg3CGRHoe0Zt/2e3c.jpeg",
+            "restbType": 19,
+            "roomTypeConfidence": 0.5502741932868958,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JBiRmGDR6Hoe0aE/fc06.jpeg",
+            "restbType": 28,
+            "roomTypeConfidence": 0.9333915114402771,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmBcsRhBaCHoe0ab/1436.jpeg",
+            "restbType": 22,
+            "roomTypeConfidence": 0.9590368270874023,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmBcsRhBwSHoe0au/b521.jpeg",
+            "restbType": 22,
+            "roomTypeConfidence": 0.957109808921814,
+            "order": null
+           }
+          ],
+          "locality": {
+           "city": "Praha",
+           "citySeoName": "praha",
+           "cityPart": "Staré Město",
+           "cityPartSeoName": "stare-mesto",
+           "country": "Česká republika",
+           "countryId": 112,
+           "district": "Praha 1",
+           "districtId": 5001,
+           "districtSeoName": "praha-1",
+           "entityType": "address",
+           "geoHash": "u2fkbnvvvs",
+           "houseNumber": null,
+           "inaccuracyType": "street",
+           "latitude": 50.0917990835605,
+           "longitude": 14.4221993305347,
+           "municipality": null,
+           "municipalityId": 3468,
+           "municipalitySeoName": null,
+           "quarter": "Praha 1",
+           "quarterId": 87,
+           "region": "Hlavní město Praha",
+           "regionId": 10,
+           "regionSeoName": "hlavni-mesto-praha",
+           "street": "Kozí",
+           "streetId": 120235,
+           "streetNumber": null,
+           "streetSeoName": "kozi",
+           "ward": null,
+           "wardId": 13674,
+           "wardSeoName": null,
+           "zip": null
+          },
+          "name": "Pronájem bytu 2+kk 40 m²",
+          "premiseLogo": "https://d48-a.sdn.cz/d_48/c_img_m1_A/kPUxThnZnwUqsBc2.png",
+          "premiseId": 14830,
+          "premise": {
+           "seoName": "yes-home",
+           "wardSeoName": "zizkov",
+           "quarterSeoName": "",
+           "citySeoName": "praha"
+          },
+          "priceCzk": 26000,
+          "priceCzkPerSqM": 650,
+          "priceSummaryCzk": 26000,
+          "priceSummaryUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "priceUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "watchdogBadge": "none"
+         },
+         {
+          "categoryMainCb": {
+           "name": "Byty",
+           "value": 1
+          },
+          "categorySubCb": {
+           "name": "2+kk",
+           "value": 4
+          },
+          "categoryTypeCb": {
+           "name": "Pronájem",
+           "value": 2
+          },
+          "discountShow": false,
+          "id": 3738353740,
+          "hasMatterport": false,
+          "hasVideo": false,
+          "images": [
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JDZwL3D2uHk4Mpl/2b78.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JDZwL3DyDHk4MqK/47fe.jpeg",
+            "restbType": 5,
+            "roomTypeConfidence": 0.9964724779129028,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JD9RxnkoHk4Mp5/dd2c.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmDOhBEB5XHk4MqK/21c3.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JB3Lg9CsSHk4Mp3/a412.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 0.9993983507156372,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmBcG9PBsUHk4Mp8/befe.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 0.9998445510864258,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmDNojLDXEHk4Mp3/2b1f.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 0.9959558248519897,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JCpoDkDTVHk4Mp4/5079.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 0.9927277565002441,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JHlV8ECrHk4MqO/31ed.jpeg",
+            "restbType": 10,
+            "roomTypeConfidence": 0.9921815395355225,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JDZwL3D2uHk4Mp5/971b.jpeg",
+            "restbType": 6,
+            "roomTypeConfidence": 0.9990419745445251,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JB4z4nB8oHk4MqO/af31.jpeg",
+            "restbType": 6,
+            "roomTypeConfidence": 0.9974954724311829,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JB4z4nB70Hk4Mp6/9d36.jpeg",
+            "restbType": 6,
+            "roomTypeConfidence": 0.9823638200759888,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmCbUhRGgpHk4Mp1/1571.jpeg",
+            "restbType": 7,
+            "roomTypeConfidence": 0.9833691716194153,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JYnYGBzhHmBUd7/ce80.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JB3Lg9DrIHmBUd9/adea.jpeg",
+            "restbType": 8,
+            "roomTypeConfidence": 0.9819210171699524,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmDcXILBACHmBUeb/93ce.jpeg",
+            "restbType": 17,
+            "roomTypeConfidence": 0.9025000333786011,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmDOhBECZzHmBUfC/6feb.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           }
+          ],
+          "locality": {
+           "city": "Praha",
+           "citySeoName": "praha",
+           "cityPart": "",
+           "cityPartSeoName": null,
+           "country": "Česká republika",
+           "countryId": 112,
+           "district": "Praha 10",
+           "districtId": 5010,
+           "districtSeoName": "praha-10",
+           "entityType": "street",
+           "geoHash": "u2fkbemsq6",
+           "houseNumber": null,
+           "inaccuracyType": "street",
+           "latitude": 50.07230515471172,
+           "longitude": 14.44386105641415,
+           "municipality": null,
+           "municipalityId": 3468,
+           "municipalitySeoName": null,
+           "quarter": null,
+           "quarterId": null,
+           "region": "Hlavní město Praha",
+           "regionId": 10,
+           "regionSeoName": "hlavni-mesto-praha",
+           "street": "Francouzská",
+           "streetId": 119611,
+           "streetNumber": null,
+           "streetSeoName": "francouzska",
+           "ward": null,
+           "wardId": null,
+           "wardSeoName": null,
+           "zip": null
+          },
+          "name": "Pronájem bytu 2+kk 45 m²",
+          "premiseLogo": "https://d48-a.sdn.cz/d_48/c_img_QL_8/ZRQF3y.png",
+          "premiseId": 71456,
+          "premise": {
+           "seoName": "brondz-invest",
+           "wardSeoName": "nove-mesto",
+           "quarterSeoName": "praha-2",
+           "citySeoName": "praha"
+          },
+          "priceCzk": 29500,
+          "priceCzkPerSqM": 656,
+          "priceSummaryCzk": 29500,
+          "priceSummaryUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "priceUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "watchdogBadge": "none"
+         },
+         {
+          "categoryMainCb": {
+           "name": "Byty",
+           "value": 1
+          },
+          "categorySubCb": {
+           "name": "2+kk",
+           "value": 4
+          },
+          "categoryTypeCb": {
+           "name": "Pronájem",
+           "value": 2
+          },
+          "discountShow": false,
+          "id": 1146171468,
+          "hasMatterport": false,
+          "hasVideo": false,
+          "images": [
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/nOdL4BtPEyBiPBFCMeHupjuz/0284.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/nOdL4BtPEyBiPBFCMeHupjvO/d774.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 0.9856033325195312,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/k0OqwCKRZSJdBhUHupjvo/f7b3.jpeg",
+            "restbType": 5,
+            "roomTypeConfidence": 0.9089622497558594,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/nOdL4BtPEyBuWMSBgGHupjwE/ef18.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/k0OqwCKREBG8FB7YHupjwg/e1ec.jpeg",
+            "restbType": 5,
+            "roomTypeConfidence": 0.9913088083267212,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/k0OqwCKREBG8FB7sHupjwz/e160.jpeg",
+            "restbType": 5,
+            "roomTypeConfidence": 0.9967347979545593,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/nOdL4BtPEyCly89BtqHupjxK/8eef.jpeg",
+            "restbType": 15,
+            "roomTypeConfidence": 0.9996485710144043,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/nOdL4BtPEyBuWMSBfUHupjxn/b9d0.jpeg",
+            "restbType": 15,
+            "roomTypeConfidence": 0.9997343420982361,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/k0OqwCKRZSJdBhgHupjyB/2eca.jpeg",
+            "restbType": 15,
+            "roomTypeConfidence": 0.9995750784873962,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/nOdL4BtPEyC2Er4BekHupjyc/962f.jpeg",
+            "restbType": 28,
+            "roomTypeConfidence": 0.9951767921447754,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/k0OqwCKRCO7AFBjDHupjy1/c058.jpeg",
+            "restbType": 6,
+            "roomTypeConfidence": 0.9995692372322083,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/k0OqwCKREBG8FB7gHupjzP/4e87.jpeg",
+            "restbType": 6,
+            "roomTypeConfidence": 0.9995891451835632,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/nOdL4BtPEyCi6LRHi1Hupjzn/423d.jpeg",
+            "restbType": 22,
+            "roomTypeConfidence": 0.9994140863418579,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/nOdL4BtPEyBHthwB0NHupj0E/06c8.jpeg",
+            "restbType": 22,
+            "roomTypeConfidence": 0.9998289346694946,
+            "order": null
+           }
+          ],
+          "locality": {
+           "city": "Praha",
+           "citySeoName": "praha",
+           "cityPart": "Nové Město",
+           "cityPartSeoName": "nove-mesto",
+           "country": "Česká republika",
+           "countryId": 112,
+           "district": "Praha 2",
+           "districtId": 5002,
+           "districtSeoName": "praha-2",
+           "entityType": "address",
+           "geoHash": "u2fkb5z41v",
+           "houseNumber": null,
+           "inaccuracyType": "street",
+           "latitude": 50.0746851892942,
+           "longitude": 14.4237557925681,
+           "municipality": null,
+           "municipalityId": 3468,
+           "municipalitySeoName": null,
+           "quarter": "Praha 2",
+           "quarterId": 88,
+           "region": "Hlavní město Praha",
+           "regionId": 10,
+           "regionSeoName": "hlavni-mesto-praha",
+           "street": "Lípová",
+           "streetId": 120394,
+           "streetNumber": null,
+           "streetSeoName": "lipova",
+           "ward": null,
+           "wardId": 14959,
+           "wardSeoName": null,
+           "zip": null
+          },
+          "name": "Pronájem bytu 2+kk 41 m²",
+          "premiseLogo": "https://d48-a.sdn.cz/d_48/c_img_m1_A/kPUxThnZnwUqsBc2.png",
+          "premiseId": 14830,
+          "premise": {
+           "seoName": "yes-home",
+           "wardSeoName": "zizkov",
+           "quarterSeoName": "",
+           "citySeoName": "praha"
+          },
+          "priceCzk": 22500,
+          "priceCzkPerSqM": 549,
+          "priceSummaryCzk": 22500,
+          "priceSummaryUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "priceUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "watchdogBadge": "none"
+         },
+         {
+          "categoryMainCb": {
+           "name": "Byty",
+           "value": 1
+          },
+          "categorySubCb": {
+           "name": "2+kk",
+           "value": 4
+          },
+          "categoryTypeCb": {
+           "name": "Pronájem",
+           "value": 2
+          },
+          "discountShow": false,
+          "id": 1699070028,
+          "hasMatterport": false,
+          "hasVideo": false,
+          "images": [
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmDNojLEEeHnU5mw/b2e9.jpeg",
+            "restbType": 1,
+            "roomTypeConfidence": 0.990724503993988,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmBcG9PWkHnU5nW/b0c7.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmBcG9PWeHnU5nx/4b00.jpeg",
+            "restbType": 1,
+            "roomTypeConfidence": 0.990724503993988,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmCbUhRFKFHnU5oZ/4cb7.jpeg",
+            "restbType": 5,
+            "roomTypeConfidence": 0.9967151880264282,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JCpoDkCOMHnU5oy/6bae.jpeg",
+            "restbType": 5,
+            "roomTypeConfidence": 0.998965859413147,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmDOhBEBcXHnU5pY/4212.jpeg",
+            "restbType": 3,
+            "roomTypeConfidence": 0.9910045862197876,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JBuatXDQUHnU5pw/57c9.jpeg",
+            "restbType": 3,
+            "roomTypeConfidence": 0.9910844564437866,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmDNojLEWpHnU5qa/1241.jpeg",
+            "restbType": 1,
+            "roomTypeConfidence": 0.8733325600624084,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JB4z4nMg9HnU5qv/dcd3.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 0.9985755681991577,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmDOhBEBafHnU5rG/bd68.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 0.9996823072433472,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JB3Lg9W4HnU5rf/4f83.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 0.9960527420043945,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmBFAg36hHnU5r0/1891.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 0.9990623593330383,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JBiRmGDWKHnU5sM/9903.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 0.9989084005355835,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JCNF9HDIHHnU5sj/92f2.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JBdV1WpmHnU5s4/74a6.jpeg",
+            "restbType": 13,
+            "roomTypeConfidence": 0.9843867421150208,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmDNojLEWpHnU5vJ/4053.jpeg",
+            "restbType": 16,
+            "roomTypeConfidence": 0.9855644106864929,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JB3Lg93vHnU5wH/492c.jpeg",
+            "restbType": 6,
+            "roomTypeConfidence": 0.9999032020568848,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmBFAg3WbHnU5ws/24b3.jpeg",
+            "restbType": 6,
+            "roomTypeConfidence": 0.9999508857727051,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JB4z4nMpWHnU5xJ/fc73.jpeg",
+            "restbType": 6,
+            "roomTypeConfidence": 0.9998902082443237,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmCbUhRFKFHnU5xu/da2a.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmCfYovDPRHnU5yI/8054.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JB4z4nMg5HnU5yb/b078.jpeg",
+            "restbType": 10,
+            "roomTypeConfidence": 0.9277065992355347,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JB3Lg92BHnU5yw/9075.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmCbUhRFEyHnU5zE/9648.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JBuatXDIhHnU5zY/b3d3.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JB3Lg93vHnU52h/a6aa.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmBzBfmCGaHnU53U/4c11.jpeg",
+            "restbType": 17,
+            "roomTypeConfidence": 0.8710513114929199,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmBcG9PWZHnU55i/5664.jpeg",
+            "restbType": 28,
+            "roomTypeConfidence": 0.9679139256477356,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JCpoDkCJWHnU56o/b1b4.jpeg",
+            "restbType": 28,
+            "roomTypeConfidence": 0.9955064058303833,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmBzBfmCGaHnU57T/bd77.jpeg",
+            "restbType": 28,
+            "roomTypeConfidence": 0.9672778844833374,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JBiRmGDWKHnU574/694a.jpeg",
+            "restbType": 28,
+            "roomTypeConfidence": 0.9980719089508057,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JBiRmGDUOHnU580/6dd9.jpeg",
+            "restbType": 28,
+            "roomTypeConfidence": 0.9831523895263672,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JB4z4nMpWHnU594/12b0.jpeg",
+            "restbType": 28,
+            "roomTypeConfidence": 0.9198960065841675,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmDj2BMWaHnU6A0/bc6e.jpeg",
+            "restbType": 28,
+            "roomTypeConfidence": 0.9147336483001709,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmBcsRhWcHnU6Bg/3d8a.jpeg",
+            "restbType": 28,
+            "roomTypeConfidence": 0.9599933624267578,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JBuatXC9BHnU6Cz/e437.jpeg",
+            "restbType": 28,
+            "roomTypeConfidence": 0.9879356622695923,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmDNojLEEeHnU6Df/97fc.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmDOhBEBcXHnU6EM/8a77.jpeg",
+            "restbType": 28,
+            "roomTypeConfidence": 0.9710000157356262,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JCpoDkCOMHnU6GJ/3971.jpeg",
+            "restbType": 28,
+            "roomTypeConfidence": 0.9526792764663696,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/kPVqmweP7JDZwL3M4dHnU6Gv/4e66.jpeg",
+            "restbType": 28,
+            "roomTypeConfidence": 0.9965901374816895,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_D/nPYADvcUkmBcG9PfGHnU6Hb/bf96.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           }
+          ],
+          "locality": {
+           "city": "Praha",
+           "citySeoName": "praha",
+           "cityPart": "Ruzyně",
+           "cityPartSeoName": "ruzyne",
+           "country": "Česká republika",
+           "countryId": 112,
+           "district": "Praha 6",
+           "districtId": 5006,
+           "districtSeoName": "praha-6",
+           "entityType": "address",
+           "geoHash": "u2fhvqu330",
+           "houseNumber": "1170",
+           "inaccuracyType": "gps",
+           "latitude": 50.091007,
+           "longitude": 14.299099,
+           "municipality": null,
+           "municipalityId": 3468,
+           "municipalitySeoName": null,
+           "quarter": "Praha 6",
+           "quarterId": 107,
+           "region": "Hlavní město Praha",
+           "regionId": 10,
+           "regionSeoName": "hlavni-mesto-praha",
+           "street": "Stočesova",
+           "streetId": 5199386,
+           "streetNumber": "4",
+           "streetSeoName": "stocesova",
+           "ward": null,
+           "wardId": 13693,
+           "wardSeoName": null,
+           "zip": null
+          },
+          "name": "Pronájem bytu 2+kk 51 m²",
+          "premiseLogo": "https://d48-a.sdn.cz/d_48/c_img_oZ_A/nsLxLojIDtIIlGcLDL0Qb7/dec0.png",
+          "premiseId": 3146,
+          "premise": {
+           "seoName": "happy-house-rentals-s-r-o-realitni-kancelar",
+           "wardSeoName": "vinohrady",
+           "quarterSeoName": "praha-2",
+           "citySeoName": "praha"
+          },
+          "priceCzk": 30000,
+          "priceCzkPerSqM": 588,
+          "priceSummaryCzk": 30000,
+          "priceSummaryUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "priceUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "watchdogBadge": "none"
+         },
+         {
+          "categoryMainCb": {
+           "name": "Byty",
+           "value": 1
+          },
+          "categorySubCb": {
+           "name": "3+kk",
+           "value": 6
+          },
+          "categoryTypeCb": {
+           "name": "Pronájem",
+           "value": 2
+          },
+          "discountShow": false,
+          "id": 1004085324,
+          "hasMatterport": false,
+          "hasVideo": false,
+          "images": [
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKREBG8FCPoHzmDdF/4228.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRB7OXgCdSHzmDdj/3935.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyCi6LRBWTHzmDd7/784f.jpeg",
+            "restbType": 1,
+            "roomTypeConfidence": 0.9988325238227844,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyBHthwVxHzmDeZ/58ee.jpeg",
+            "restbType": 1,
+            "roomTypeConfidence": 0.9979729056358337,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRDbeZQBY3HzmDe3/fcba.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 0.9991414546966553,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKREB0TcFSzHzmDfX/e002.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 0.9201767444610596,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRD1EvudVHzmDhQ/1346.jpeg",
+            "restbType": 6,
+            "roomTypeConfidence": 0.9996174573898315,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyCi6LRBWTHzmDi8/d0aa.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyCi6LRBWTHzmDkk/6692.jpeg",
+            "restbType": 6,
+            "roomTypeConfidence": 0.9988102912902832,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyCly89CJ6HzmDmO/6d16.jpeg",
+            "restbType": 10,
+            "roomTypeConfidence": 0.8842366337776184,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyvOo9B5MHzmDoB/f047.jpeg",
+            "restbType": 21,
+            "roomTypeConfidence": 0.9970767498016357,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyDrQHrVqHzmDpn/1592.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRBOXzTVoHzmDrY/5f50.jpeg",
+            "restbType": 28,
+            "roomTypeConfidence": 0.9118052124977112,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRD1EvuVMHzmDtG/c21c.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRDgcHsBNRHzmDu2/85d3.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRB7OXgCbqHzmDwg/d112.jpeg",
+            "restbType": 28,
+            "roomTypeConfidence": 0.8246753811836243,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRBOXzTVoHzmDyU/0932.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyvOo9BzyHzmD0H/2599.jpeg",
+            "restbType": 28,
+            "roomTypeConfidence": 0.9042332172393799,
+            "order": null
+           }
+          ],
+          "locality": {
+           "city": "Praha",
+           "citySeoName": "praha",
+           "cityPart": "Sobín",
+           "cityPartSeoName": "sobin",
+           "country": "Česká republika",
+           "countryId": 112,
+           "district": "Praha 5",
+           "districtId": 5005,
+           "districtSeoName": "praha-5",
+           "entityType": "street",
+           "geoHash": "u2fhuccrrm",
+           "houseNumber": "",
+           "inaccuracyType": "gps",
+           "latitude": 50.0646,
+           "longitude": 14.27327,
+           "municipality": null,
+           "municipalityId": 3468,
+           "municipalitySeoName": null,
+           "quarter": "Praha-Zličín",
+           "quarterId": 106,
+           "region": "Hlavní město Praha",
+           "regionId": 10,
+           "regionSeoName": "hlavni-mesto-praha",
+           "street": "Želetická",
+           "streetId": 5196651,
+           "streetNumber": "",
+           "streetSeoName": "zeleticka",
+           "ward": null,
+           "wardId": 13175,
+           "wardSeoName": null,
+           "zip": null
+          },
+          "name": "Pronájem bytu 3+kk 73 m²",
+          "premiseLogo": "",
+          "premiseId": 79793,
+          "premise": {
+           "seoName": "garancenajmu-cz",
+           "wardSeoName": "mala-chuchle",
+           "quarterSeoName": "praha-velka-chuchle",
+           "citySeoName": "praha"
+          },
+          "priceCzk": 28900,
+          "priceCzkPerSqM": 396,
+          "priceSummaryCzk": 28900,
+          "priceSummaryUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "priceUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "watchdogBadge": "none"
+         },
+         {
+          "categoryMainCb": {
+           "name": "Byty",
+           "value": 1
+          },
+          "categorySubCb": {
+           "name": "3+kk",
+           "value": 6
+          },
+          "categoryTypeCb": {
+           "name": "Pronájem",
+           "value": 2
+          },
+          "discountShow": false,
+          "id": 1642541132,
+          "hasMatterport": false,
+          "hasVideo": false,
+          "images": [
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/k0OqwCKREBG8FCpSHwAJm6/5d84.jpeg",
+            "restbType": 2,
+            "roomTypeConfidence": 0.9726678133010864,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/nOdL4BtPEyvOo9JS6HwAIcg/f55a.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/nOdL4BtPEyBHthwKmeHwAHII/8c82.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/nOdL4BtPEyBiPBFW0HwAI5R/5367.jpeg",
+            "restbType": 15,
+            "roomTypeConfidence": 0.9978284239768982,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/nOdL4BtPEyCly89EEeHwAHBh/36b7.jpeg",
+            "restbType": 16,
+            "roomTypeConfidence": 0.9964708089828491,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/nOdL4BtPEyBiPBFBCYHwAIVn/3505.jpeg",
+            "restbType": 5,
+            "roomTypeConfidence": 0.9984877109527588,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/nOdL4BtPEyCi6LRDSsHwAJyM/b4be.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/k0OqwCKRD1EvuFOrHwAKj6/3e24.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/k0OqwCKREBG8FDLTHwAK7y/8eca.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 0.9996169805526733,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/nOdL4BtPEyBiPBFWwHwANix/7e30.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 0.999401330947876,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/nOdL4BtPEyBHthwJRfHwAN5R/244f.jpeg",
+            "restbType": 6,
+            "roomTypeConfidence": 0.9998676776885986,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/k0OqwCKRB7OXgBHaHwAOPP/8f95.jpeg",
+            "restbType": 6,
+            "roomTypeConfidence": 0.9938335418701172,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/k0OqwCKRB7OXgBcQHwATxg/931c.jpeg",
+            "restbType": 28,
+            "roomTypeConfidence": 0.9438221454620361,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/nOdL4BtPEyBiPBFBCYHwAPHx/1cb3.jpeg",
+            "restbType": 28,
+            "roomTypeConfidence": 0.9198489785194397,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/k0OqwCKRB7OXgBcQHwAOyk/1738.jpeg",
+            "restbType": 28,
+            "roomTypeConfidence": 0.9545259475708008,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/nOdL4BtPEyBiPBFW8HwHBez/5002.jpeg?fl=rot,270,0|",
+            "restbType": 22,
+            "roomTypeConfidence": 0.9965230226516724,
+            "order": null
+           }
+          ],
+          "locality": {
+           "city": "Praha",
+           "citySeoName": "praha",
+           "cityPart": "Uhříněves",
+           "cityPartSeoName": "uhrineves",
+           "country": "Česká republika",
+           "countryId": 112,
+           "district": "Praha 10",
+           "districtId": 5010,
+           "districtSeoName": "praha-10",
+           "entityType": "address",
+           "geoHash": "u2fks5kpp2",
+           "houseNumber": "1639",
+           "inaccuracyType": "address",
+           "latitude": 50.02882299644117,
+           "longitude": 14.595651050960603,
+           "municipality": null,
+           "municipalityId": 3468,
+           "municipalitySeoName": null,
+           "quarter": "Praha 22",
+           "quarterId": 80,
+           "region": "Hlavní město Praha",
+           "regionId": 10,
+           "regionSeoName": "hlavni-mesto-praha",
+           "street": "Oty Bubeníčka",
+           "streetId": 5195186,
+           "streetNumber": "10",
+           "streetSeoName": "oty-bubenicka",
+           "ward": null,
+           "wardId": 11676,
+           "wardSeoName": null,
+           "zip": null
+          },
+          "name": "Pronájem bytu 3+kk 56 m²",
+          "premiseLogo": "",
+          "premiseId": 1205,
+          "premise": {
+           "seoName": "rk-eliska-mancova",
+           "wardSeoName": "josefov",
+           "quarterSeoName": "praha-1",
+           "citySeoName": "praha"
+          },
+          "priceCzk": 27000,
+          "priceCzkPerSqM": 482,
+          "priceSummaryCzk": 27000,
+          "priceSummaryUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "priceUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "watchdogBadge": "none"
+         },
+         {
+          "categoryMainCb": {
+           "name": "Byty",
+           "value": 1
+          },
+          "categorySubCb": {
+           "name": "2+kk",
+           "value": 4
+          },
+          "categoryTypeCb": {
+           "name": "Pronájem",
+           "value": 2
+          },
+          "discountShow": false,
+          "id": 3338149964,
+          "hasMatterport": false,
+          "hasVideo": false,
+          "images": [
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyvOo9VxH0I1RI/da09.jpeg",
+            "restbType": 1,
+            "roomTypeConfidence": 0.9707351922988892,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKREB0TcEmiH0I1PN/00a2.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRDbeZQDPsH0I1PP/acea.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyBiPBFVkH0I1PV/b50b.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRD1Evu8GH0I1Pu/3a41.jpeg",
+            "restbType": 5,
+            "roomTypeConfidence": 0.999850869178772,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyBuWMShXH0I1RE/94bc.jpeg",
+            "restbType": 5,
+            "roomTypeConfidence": 0.9135596752166748,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyD4lWfmEH0I1Qj/846c.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyBFnmYv2H0I1Py/cefa.jpeg",
+            "restbType": 6,
+            "roomTypeConfidence": 0.9889567494392395,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyD4lWfmEH0I1QF/55ee.jpeg",
+            "restbType": 13,
+            "roomTypeConfidence": 0.8315597176551819,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRDgcHsEq0H0I1QZ/69d1.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 0.9987764954566956,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKREB0TcDqYH0I1Qu/60c6.jpeg",
+            "restbType": 28,
+            "roomTypeConfidence": 0.9970796704292297,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKREBG8FVVH0I1Q1/8168.jpeg",
+            "restbType": 28,
+            "roomTypeConfidence": 0.996455192565918,
+            "order": null
+           }
+          ],
+          "locality": {
+           "city": "Praha",
+           "citySeoName": "praha",
+           "cityPart": "Kobylisy",
+           "cityPartSeoName": "kobylisy",
+           "country": "Česká republika",
+           "countryId": 112,
+           "district": "Praha 8",
+           "districtId": 5008,
+           "districtSeoName": "praha-8",
+           "entityType": "street",
+           "geoHash": "u2fm1njdz3",
+           "houseNumber": null,
+           "inaccuracyType": "street",
+           "latitude": 50.131096234748895,
+           "longitude": 14.465877654270463,
+           "municipality": null,
+           "municipalityId": 3468,
+           "municipalitySeoName": null,
+           "quarter": "Praha 8",
+           "quarterId": 115,
+           "region": "Hlavní město Praha",
+           "regionId": 10,
+           "regionSeoName": "hlavni-mesto-praha",
+           "street": "Bojasova",
+           "streetId": 123356,
+           "streetNumber": null,
+           "streetSeoName": "bojasova",
+           "ward": null,
+           "wardId": 13706,
+           "wardSeoName": null,
+           "zip": null
+          },
+          "name": "Pronájem bytu 2+kk 45 m²",
+          "premiseLogo": "",
+          "premiseId": null,
+          "premise": {
+           "seoName": "",
+           "wardSeoName": "",
+           "quarterSeoName": "",
+           "citySeoName": ""
+          },
+          "priceCzk": 18500,
+          "priceCzkPerSqM": 411,
+          "priceSummaryCzk": 18500,
+          "priceSummaryUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "priceUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "watchdogBadge": "none"
+         },
+         {
+          "categoryMainCb": {
+           "name": "Byty",
+           "value": 1
+          },
+          "categorySubCb": {
+           "name": "2+kk",
+           "value": 4
+          },
+          "categoryTypeCb": {
+           "name": "Pronájem",
+           "value": 2
+          },
+          "discountShow": false,
+          "id": 3254431820,
+          "hasMatterport": false,
+          "hasVideo": false,
+          "images": [
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qD_E/kQMlcCt5zmC5zFHBbtlHQYVap/25e6.jpeg",
+            "restbType": 2,
+            "roomTypeConfidence": 0.9314420223236084,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qD_E/kQMlcCt5zmD87zEeOUHQYVbM/e833.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qD_E/kQMlcCt5zmCni4DBc73HQYVbz/3687.jpeg",
+            "restbType": 1,
+            "roomTypeConfidence": 0.9344959259033203,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qD_E/kQMlcCt5zmChFvGdGkHQYVcW/698c.jpeg",
+            "restbType": 5,
+            "roomTypeConfidence": 0.9203007817268372,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qD_E/kQMlcCt5zmBDp4mfBZHQYVc2/cd91.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 0.9339335560798645,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qD_E/nO2CysqjGrRICCB4WjHQYVdY/54c5.jpeg",
+            "restbType": 6,
+            "roomTypeConfidence": 0.9430546760559082,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qD_E/nO2CysqjGrB9kIMB7OQHQYVd0/c5da.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qD_E/nO2CysqjGrBgjUXBTXqHQYVeW/4298.jpeg",
+            "restbType": 8,
+            "roomTypeConfidence": 0.89418625831604,
+            "order": null
+           }
+          ],
+          "locality": {
+           "city": "Praha",
+           "citySeoName": "praha",
+           "cityPart": "Holešovice",
+           "cityPartSeoName": "holesovice",
+           "country": "Česká republika",
+           "countryId": 112,
+           "district": "Praha 7",
+           "districtId": 5007,
+           "districtSeoName": "praha-7",
+           "entityType": "address",
+           "geoHash": "u2fm09yk30",
+           "houseNumber": "1032",
+           "inaccuracyType": "gps",
+           "latitude": 50.1080015,
+           "longitude": 14.4446665,
+           "municipality": null,
+           "municipalityId": 3468,
+           "municipalitySeoName": null,
+           "quarter": "Praha 7",
+           "quarterId": 113,
+           "region": "Hlavní město Praha",
+           "regionId": 10,
+           "regionSeoName": "hlavni-mesto-praha",
+           "street": "Plynární",
+           "streetId": 121343,
+           "streetNumber": "29",
+           "streetSeoName": "plynarni",
+           "ward": null,
+           "wardId": 14951,
+           "wardSeoName": null,
+           "zip": null
+          },
+          "name": "Pronájem bytu 2+kk 60 m²",
+          "premiseLogo": "https://d48-a.sdn.cz/d_48/c_img_QI_y/DbiKP5.png",
+          "premiseId": 10628,
+          "premise": {
+           "seoName": "engel-volkers",
+           "wardSeoName": "smichov",
+           "quarterSeoName": "praha-5",
+           "citySeoName": "praha"
+          },
+          "priceCzk": 29500,
+          "priceCzkPerSqM": 492,
+          "priceSummaryCzk": 29500,
+          "priceSummaryUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "priceUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "watchdogBadge": "none"
+         },
+         {
+          "categoryMainCb": {
+           "name": "Byty",
+           "value": 1
+          },
+          "categorySubCb": {
+           "name": "2+kk",
+           "value": 4
+          },
+          "categoryTypeCb": {
+           "name": "Pronájem",
+           "value": 2
+          },
+          "discountShow": false,
+          "id": 1332097100,
+          "hasMatterport": false,
+          "hasVideo": false,
+          "images": [
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRBOXzTDpjHy8nJQ/7627.png",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyCi6LRE2nHy8nI4/b655.png",
+            "restbType": 2,
+            "roomTypeConfidence": 0.9753159880638123,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyDrQHrWNHy8nJY/0092.png",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/nOdL4BtPEyBFnmYBcNHwxTQE/bdcb.jpeg",
+            "restbType": 2,
+            "roomTypeConfidence": 0.9106000661849976,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/nOdL4BtPEyBuWMSW0HwxTMh/7fe7.jpeg",
+            "restbType": 10,
+            "roomTypeConfidence": 0.9140415191650391,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/k0OqwCKRDbeZQFfZHwxTKc/f7b4.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/nOdL4BtPEyCly89Hs5HwxTPD/3eb9.jpeg",
+            "restbType": 30,
+            "roomTypeConfidence": 0.9969430565834045,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyBuWMSCmzHy8nJM/5451.png",
+            "restbType": 4,
+            "roomTypeConfidence": 0.9986573457717896,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/nOdL4BtPEyvOo9CPfHwxTPP/560e.jpeg",
+            "restbType": 4,
+            "roomTypeConfidence": 0.9451168775558472,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/k0OqwCKRIhAnGK9HwxTQr/96f2.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/k0OqwCKRDbeZQFh4HwxTRX/c78d.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/k0OqwCKRBOXzTCiOHwxTLk/23d2.jpeg",
+            "restbType": 6,
+            "roomTypeConfidence": 0.9998130202293396,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/nOdL4BtPEyD4lWfFIMHwxTOU/08a4.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/k0OqwCKREB0TcpXHwxTPu/1c80.jpeg",
+            "restbType": 2,
+            "roomTypeConfidence": 0.8331303000450134,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/nOdL4BtPEyvOo9B8AHwxTRA/b256.jpeg",
+            "restbType": 5,
+            "roomTypeConfidence": 0.9996488094329834,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyBHthwDG1Hy8nHc/d6fd.jpeg",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/k0OqwCKRD1EvuBPoHwxTQd/52db.jpeg",
+            "restbType": 5,
+            "roomTypeConfidence": 0.9994834661483765,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qF_B/k0OqwCKREB0Tct8HwxTRZ/9e9e.jpeg",
+            "restbType": 16,
+            "roomTypeConfidence": 0.9570522308349609,
+            "order": null
+           }
+          ],
+          "locality": {
+           "city": "Praha",
+           "citySeoName": "praha",
+           "cityPart": "Vinohrady",
+           "cityPartSeoName": "vinohrady",
+           "country": "Česká republika",
+           "countryId": 112,
+           "district": "Praha 2",
+           "districtId": 5002,
+           "districtSeoName": "praha-2",
+           "entityType": "address",
+           "geoHash": "u2fkbe72bh",
+           "houseNumber": "200",
+           "inaccuracyType": "address",
+           "latitude": 50.07171913292154,
+           "longitude": 14.440499555639525,
+           "municipality": null,
+           "municipalityId": 3468,
+           "municipalitySeoName": null,
+           "quarter": "Praha 2",
+           "quarterId": 88,
+           "region": "Hlavní město Praha",
+           "regionId": 10,
+           "regionSeoName": "hlavni-mesto-praha",
+           "street": "Varšavská",
+           "streetId": 122643,
+           "streetNumber": "12",
+           "streetSeoName": "varsavska",
+           "ward": null,
+           "wardId": 14967,
+           "wardSeoName": null,
+           "zip": null
+          },
+          "name": "Pronájem bytu 2+kk 56 m²",
+          "premiseLogo": "",
+          "premiseId": 15612,
+          "premise": {
+           "seoName": "eva-mikeskova",
+           "wardSeoName": "nusle",
+           "quarterSeoName": "praha-4",
+           "citySeoName": "praha"
+          },
+          "priceCzk": 29990,
+          "priceCzkPerSqM": 536,
+          "priceSummaryCzk": 29990,
+          "priceSummaryUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "priceUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "watchdogBadge": "none"
+         },
+         {
+          "categoryMainCb": {
+           "name": "Byty",
+           "value": 1
+          },
+          "categorySubCb": {
+           "name": "3+kk",
+           "value": 6
+          },
+          "categoryTypeCb": {
+           "name": "Pronájem",
+           "value": 2
+          },
+          "discountShow": false,
+          "id": 1687142476,
+          "hasMatterport": false,
+          "hasVideo": false,
+          "images": [
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_C/kPVqmweP7JBfF7LBsvHhB8js/3e19.png",
+            "restbType": 5,
+            "roomTypeConfidence": 0.9841646552085876,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_C/nPYADvcUkmBzBfmD20HhB8iq/b7c7.png",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_C/kPVqmweP7JDtaVrLNVHhB8H7/0aae.png",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_C/nPYADvcUkmBzBfmD20HhB8jx/782b.png",
+            "restbType": 5,
+            "roomTypeConfidence": 0.9992637038230896,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_C/nPYADvcUkmBcsRhWYHhB8J5/e64b.png",
+            "restbType": 10,
+            "roomTypeConfidence": 0.8676167130470276,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_C/nPYADvcUkmCfYovrnHhB8Mx/8ccf.png",
+            "restbType": 5,
+            "roomTypeConfidence": 0.9151230454444885,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_C/nPYADvcUkmCbUhRDm6HhB8L9/6da1.png",
+            "restbType": 11,
+            "roomTypeConfidence": 0.8748022317886353,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_C/kPVqmweP7JDtaVrLTrHhB8jj/37cf.png",
+            "restbType": 5,
+            "roomTypeConfidence": 0.9746531844139099,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_C/kPVqmweP7JBcGUhHGjHhB8gk/093a.png",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_C/nPYADvcUkmBcG9PCwsHhB8Lu/25e5.png",
+            "restbType": 15,
+            "roomTypeConfidence": 0.9988793730735779,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_C/nPYADvcUkmBcsRhWgHhCThl/f99a.png",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_C/nPYADvcUkmDj2BMBOwHhB8fJ/2e8e.png",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_C/nPYADvcUkmBzBfmD2wHhB8cS/081e.png",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_C/nPYADvcUkmBzBfmDr2HhB8MW/436c.png",
+            "restbType": 6,
+            "roomTypeConfidence": 0.9995146989822388,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_C/nPYADvcUkmCfYovmzHhB8Mg/83d7.png",
+            "restbType": 6,
+            "roomTypeConfidence": 0.9980089068412781,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_C/nPYADvcUkmDNojLWmHhB8M6/bfed.png",
+            "restbType": 7,
+            "roomTypeConfidence": 0.9762893319129944,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_C/nPYADvcUkmBFAg3hpHhB8KH/4bfb.png",
+            "restbType": 7,
+            "roomTypeConfidence": 0.9845466017723083,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_C/kPVqmweP7JBcGUhHGnHhB8f8/dc09.png",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_C/kPVqmweP7JDtaVrLTrHhB8fX/f9ef.png",
+            "restbType": 0,
+            "roomTypeConfidence": 0.699999988079071,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_C/kPVqmweP7JCkmYd75HhCTjp/7c4a.png",
+            "restbType": 4,
+            "roomTypeConfidence": 0.9727683067321777,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_C/kPVqmweP7JCebThBGxHhB8d4/2e5e.png",
+            "restbType": 28,
+            "roomTypeConfidence": 0.8816661238670349,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_C/nPYADvcUkmBzBfmDOdHhB8gM/4849.png",
+            "restbType": 28,
+            "roomTypeConfidence": 0.9069094657897949,
+            "order": null
+           },
+           {
+            "url": "//d18-a.sdn.cz/d_18/c_img_qE_C/nPYADvcUkmBFAg3c0HhB8jB/2e05.png",
+            "restbType": 28,
+            "roomTypeConfidence": 0.9976246953010559,
+            "order": null
+           }
+          ],
+          "locality": {
+           "city": "Praha",
+           "citySeoName": "praha",
+           "cityPart": "Háje",
+           "cityPartSeoName": "haje",
+           "country": "Česká republika",
+           "countryId": 112,
+           "district": "Praha 4",
+           "districtId": 5004,
+           "districtSeoName": "praha-4",
+           "entityType": "address",
+           "geoHash": "u2fkdkdjb0",
+           "houseNumber": "777",
+           "inaccuracyType": "gps",
+           "latitude": 50.03547653873059,
+           "longitude": 14.515687141445774,
+           "municipality": null,
+           "municipalityId": 3468,
+           "municipalitySeoName": null,
+           "quarter": "Praha 11",
+           "quarterId": 91,
+           "region": "Hlavní město Praha",
+           "regionId": 10,
+           "regionSeoName": "hlavni-mesto-praha",
+           "street": "Brechtova",
+           "streetId": 121529,
+           "streetNumber": "2",
+           "streetSeoName": "brechtova",
+           "ward": null,
+           "wardId": 13680,
+           "wardSeoName": null,
+           "zip": null
+          },
+          "name": "Pronájem bytu 3+kk 67 m²",
+          "premiseLogo": "",
+          "premiseId": 12246,
+          "premise": {
+           "seoName": "osobni-realitni-makler-machova-zdena",
+           "wardSeoName": "zizkov",
+           "quarterSeoName": "praha-3",
+           "citySeoName": "praha"
+          },
+          "priceCzk": 25900,
+          "priceCzkPerSqM": 387,
+          "priceSummaryCzk": 25900,
+          "priceSummaryUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "priceUnitCb": {
+           "name": "za měsíc",
+           "value": 2
+          },
+          "watchdogBadge": "none"
+         }
+        ],
+        "searchTitle": "Byty 2+kk, 3+kk k pronájmu Praha, užitná plocha od 40 m², od 15 000 Kč do 30 000 Kč",
+        "metaTitle": "Pronájem bytu 2+kk, 3+kk od 40 m² Praha, od 15 000 Kč do 30 000 Kč • Sreality.cz",
+        "metaDescription": "1 032 bytů v aktuální nabídce Byty k pronájmu Praha ✓ Parametry hledání: Byty 2+kk, 3+kk, od 40 m², Praha, od 15 000 Kč do 30 000 Kč ✓ Největší nabídka nemovitostí v Česku (106 910 inzerátů) s hledáním na mapě a filtrováním s desítkami parametrů ✓",
+        "brokerTip": {
+         "brokerTipId": 170771,
+         "description": "Koupím byt v Praze i před rekonstrukcí. Přímý kupec, rychle a bez starostí.",
+         "imageUrl": "//d18-a.sdn.cz/d_18/c_img_qA_E/kcHp2YdDtzYqG9OAGdY87A/b2f6.jpeg",
+         "premise": {
+          "id": 43402,
+          "logo": "https://d48-a.sdn.cz/d_48/c_img_QO_i/o4OMei.png",
+          "name": "NOVA ET VETERA, s.r.o.",
+          "citySeoName": "praha",
+          "seoName": "nova-et-vetera-s-r-o",
+          "reviewCount": 17,
+          "reviewScore": 5,
+          "quarterSeoName": "praha-3",
+          "wardSeoName": "vinohrady"
+         },
+         "userName": "Ing. Vítězslav Pelc",
+         "userId": 255416,
+         "userRusId": 9998446,
+         "categoryId": 1,
+         "typeId": 1,
+         "localityRegionId": 10,
+         "localityDistrictId": 0
+        },
+        "regionTip": null,
+        "projectTip": null,
+        "warnings": null
+       },
+       "dataUpdateCount": 1,
+       "dataUpdatedAt": 1789822093064,
+       "error": null,
+       "errorUpdateCount": 0,
+       "errorUpdatedAt": 0,
+       "fetchFailureCount": 0,
+       "fetchFailureReason": null,
+       "fetchMeta": null,
+       "isInvalidated": false,
+       "status": "success",
+       "fetchStatus": "idle"
+      },
+      "queryKey": [
+       "estatesSearch",
+       {
+        "sort": "-date",
+        "page": 1,
+        "limit": 22,
+        "categoryTypeCb": [
+         2
+        ],
+        "categoryMainCb": [
+         1
+        ],
+        "categorySubCb": [
+         4,
+         6
+        ],
+        "priceFrom": 15000,
+        "priceTo": 30000,
+        "usableAreaFrom": 40,
+        "imageSort": 0,
+        "timestamp": "2026-09-19T12:48:12.945Z",
+        "includeBrokerTip": true,
+        "includeProjectTip": true,
+        "includeRegionTip": true,
+        "lang": "cs",
+        "localityCountryId": 112,
+        "localityRegionId": [
+         10
+        ]
+       }
+      ],
+      "queryHash": "[\"estatesSearch\",{\"categoryMainCb\":[1],\"categorySubCb\":[4,6],\"categoryTypeCb\":[2],\"imageSort\":0,\"includeBrokerTip\":true,\"includeProjectTip\":true,\"includeRegionTip\":true,\"lang\":\"cs\",\"limit\":22,\"localityCountryId\":112,\"localityRegionId\":[10],\"page\":1,\"priceFrom\":15000,\"priceTo\":30000,\"sort\":\"-date\",\"timestamp\":\"2026-09-19T12:48:12.945Z\",\"usableAreaFrom\":40}]"
+     }
+    ]
+   }
+  }
+ }
+}

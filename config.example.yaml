@@ -1,0 +1,194 @@
+# ap-searcher configuration. Copy this file to config.yaml and edit it; config.yaml is
+# gitignored, so your own address and profiles stay out of the repository.
+# The contact address is sent in the User-Agent - Transitous requires a way to reach you.
+contact: you@example.com
+server:
+  host: 127.0.0.1
+  port: 8765
+  open_browser: true
+office:
+  name: Amazon Court, Rohanské nábř. 661/5, Praha 8
+  lat: 50.0941093
+  lon: 14.4465543
+commute:
+  arrive_by: 09:00          # local time (Europe/Prague)
+  weekday: tuesday          # next occurrence of this weekday
+  walk_max_km: 5.0          # skip walk routing beyond this straight-line distance
+# Every profile: deal pronajem|prodej, kind byty|domy|..., locality = the slug after
+# /hledani/<deal>/<kind>/ on sreality. `max_pages` must cover the whole result set
+# (22 per page) or later matches are missed and removal detection switches itself off.
+profiles:
+- name: up-to-30k-office
+  deal: pronajem            # pronajem | prodej
+  kind: byty                # byty | domy | pozemky | ...
+  locality: praha
+  price_from: 20000
+  price_to: 30000
+  area_from: 40
+  area_to: null
+  dispositions:
+  - 2+kk
+  - 2+1
+  - 3+kk
+  - 3+1
+  # Map bounding box (Prague centre/Karlín/Vinohrady, from a sreality map search). To
+  # change it: draw the area on sreality's map and copy lat-min/lat-max/lon-min/lon-max
+  # out of the resulting URL. All four corners are required, or leave them all out.
+  lat_min: 50.07157419393176
+  lat_max: 50.12140357700609
+  lon_min: 14.42745066703636
+  lon_max: 14.480236540449447
+  max_pages: 13
+- name: up-to-35k-office
+  deal: pronajem
+  kind: byty
+  locality: praha
+  price_from: 30000
+  price_to: 35000
+  area_from: 40
+  area_to: null
+  dispositions:
+  - 2+kk
+  - 2+1
+  - 3+kk
+  - 3+1
+  # Map bounding box (Prague centre/Karlín/Vinohrady, from a sreality map search). To
+  # change it: draw the area on sreality's map and copy lat-min/lat-max/lon-min/lon-max
+  # out of the resulting URL. All four corners are required, or leave them all out.
+  lat_min: 50.07157419393176
+  lat_max: 50.12140357700609
+  lon_min: 14.42745066703636
+  lon_max: 14.480236540449447
+  max_pages: 10
+- name: up-to-35k-vysocany
+  deal: pronajem
+  kind: byty
+  # sreality's listing search cannot filter by city part (its `ctvrt` parameter is
+  # silently dropped here), so the search is scoped to the smallest district slug that
+  # fully contains the area and `neighborhoods` is applied to the results afterwards.
+  locality: praha-9
+  neighborhoods:
+  - Vysočany
+  price_from: 20000
+  price_to: 35000
+  area_from: 40
+  area_to: null
+  dispositions:
+  - 2+kk
+  - 2+1
+  - 3+kk
+  - 3+1
+  max_pages: 14
+- name: up-to-35k-zizkov
+  deal: pronajem
+  kind: byty
+  locality: praha-3
+  neighborhoods:
+  - Žižkov
+  price_from: 20000
+  price_to: 35000
+  area_from: 40
+  area_to: null
+  dispositions:
+  - 2+kk
+  - 2+1
+  - 3+kk
+  - 3+1
+  max_pages: 9
+- name: up-to-35k-karlin
+  deal: pronajem
+  kind: byty
+  locality: praha-8
+  neighborhoods:
+  - Karlín
+  price_from: 20000
+  price_to: 35000
+  area_from: 40
+  area_to: null
+  dispositions:
+  - 2+kk
+  - 2+1
+  - 3+kk
+  - 3+1
+  max_pages: 10
+- name: up-to-35k-smichov
+  deal: pronajem
+  kind: byty
+  locality: praha-5
+  neighborhoods:
+  - Smíchov
+  price_from: 20000
+  price_to: 35000
+  area_from: 40
+  area_to: null
+  dispositions:
+  - 2+kk
+  - 2+1
+  - 3+kk
+  - 3+1
+  max_pages: 18
+- name: up-to-35k-holesovice
+  deal: pronajem
+  kind: byty
+  locality: praha-7
+  neighborhoods:
+  - Holešovice
+  price_from: 20000
+  price_to: 35000
+  area_from: 40
+  area_to: null
+  dispositions:
+  - 2+kk
+  - 2+1
+  - 3+kk
+  - 3+1
+  max_pages: 5
+- name: up-to-25k-p9-holesovice
+  deal: pronajem
+  kind: byty
+  # Several localities in one profile: all of Praha 9, plus Holešovice over in Praha 7.
+  # Each area is swept separately (up to max_pages each) and its own neighbourhood
+  # filter applied, so the Praha 7 sweep keeps only Holešovice while Praha 9 keeps all.
+  areas:
+  - locality: praha-9
+  - locality: praha-7
+    neighborhoods:
+    - Holešovice
+  # Ceiling only: this profile exists to surface the cheap end, so no price_from.
+  price_to: 25000
+  area_from: 40
+  area_to: null
+  dispositions:
+  - 2+kk
+  - 2+1
+  # No `furnished:` filter anywhere in this file on purpose: every furnishing state is
+  # searched, including the roughly one third of ads that leave the field blank, and
+  # the picking happens with the furnished boxes in the page toolbar. Adding it back
+  # would be `furnished: [partly, "no"]` - sreality would then do the filtering, and
+  # the blanks would never arrive.
+  max_pages: 7
+
+routing:
+  base_url: https://api.transitous.org
+  min_interval_s: 1.0
+  max_requests_per_run: 200
+sreality:
+  min_interval_s: 1.5
+cache:
+  path: cache.sqlite3
+  search_ttl_h: 6
+  detail_ttl_d: 14
+  walk_ttl_d: 90
+  transit_ttl_d: 7
+# Score weights. Editable live in the UI; "Save to config.yaml" patches the numbers
+# below in place and leaves the rest of this file, comments included, alone.
+scoring:
+  weights:
+    commute: 1.0
+    price: 0.6
+    area: 0.3
+    parking: 0.6
+    dishwasher: 0.3
+    induction: 0.2
+    bathtub: 0.2
+    cellar: 0.2

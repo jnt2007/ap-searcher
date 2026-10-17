@@ -1,0 +1,5 @@
+# All three are already present on Debian/Ubuntu via python3-requests,
+# python3-yaml and python3-jinja2 - no virtualenv needed.
+requests>=2.31
+PyYAML>=6.0
+Jinja2>=3.1

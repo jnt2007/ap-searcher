@@ -1,0 +1,2808 @@
+{
+ "props": {
+  "pageProps": {
+   "dehydratedState": {
+    "queries": [
+     {
+      "dehydratedAt": 1789822096132,
+      "state": {
+       "data": {
+        "categoryMainCb": {
+         "name": "Byty",
+         "value": 1
+        },
+        "categorySubCb": {
+         "name": "3+kk",
+         "value": 6
+        },
+        "categoryTypeCb": {
+         "name": "Pronájem",
+         "value": 2
+        },
+        "description": "Pronájem mezonetového bytu 3+kk (85 m) Praha 16 - Radotín, ul. Věštínská\r\nK nastěhování: ihned.\r\nNabízíme k pronájmu prostorný a světlý mezonetový byt 3+kk o výměře 85 m, nacházející se ve 3. patře klidného domu v oblíbené části Prahy 5 Radotín.\r\n\r\nDispozice a vybavení:\r\n2 neprůchozí ložnice (horní patro)\r\nProstorná vstupní chodba\r\nObývací pokoj s kuchyňským koutem\r\nKoupelna se sprchovým koutem a WC\r\nByt je částečně zařízen nábytkem. Kuchyňská linka s elektrickým vařičem a digestoří, podlahy: PVC + dlažba.\r\n\r\nParkování:\r\nMožnost bezproblémového parkování přímo před domem.\r\nLokalita a občanská vybavenost:\r\nRadotín je lokalita spojující klidné bydlení s dobrou dostupností do centra. V okolí najdete:\r\n\r\nškolu a školku\r\nobchody, restaurace, kavárny\r\nlékařská péče\r\nzastávky MHD a vlak (rychlé spojení na Smíchov)\r\n\r\nCena a podmínky pronájmu:\r\nNájem: 23 000 Kč/měsíc\r\nVýše záloh na poplatky (služby):\r\n2 osoby: 3 900 Kč / měsíc spočítáno pro 2 osoby + el + plym\r\n4 osoby: 4 900 Kč / měsíc + el + plym\r\nProvize nájem +DPH\r\n\r\n\r\nKauce:\r\nkauce činí dva nájmy splatná při převzetí\r\nmožnost rozdělení jedné části na splátky po individuální dohodě\r\nElektřina a plyn: přepis na nájemce\r\nProvize RK: ve výši jednoho nájmu včetně záloh\r\n\r\nZaujala vás nabídka? Neváhejte mě kontaktovat pro prohlídku!\r\nRealitní kancelář: Můj domov REALITY\r\nMakléřka: Lidiya Savynets\r\nDostupná přes: Viber | WhatsApp | Telegram\r\nPro více informací nebo domluvení prohlídky nás neváhejte kontaktovat. Děkujeme a těšíme se na vaše dotazy!",
+        "images": [
+         {
+          "alt": "",
+          "kind": 2,
+          "order": 1,
+          "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyDrQHrp1H0LiMd/031c.jpeg",
+          "width": 1600,
+          "height": 902,
+          "id": 1011786815
+         },
+         {
+          "alt": "",
+          "kind": 2,
+          "order": 4,
+          "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKREBG8FVQH0LiMv/12f5.jpeg",
+          "width": 1600,
+          "height": 902,
+          "id": 1011786818
+         },
+         {
+          "alt": "",
+          "kind": 2,
+          "order": 5,
+          "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRD1EvuBe3H0LiNG/6221.jpeg",
+          "width": 1600,
+          "height": 902,
+          "id": 1011786821
+         },
+         {
+          "alt": "",
+          "kind": 2,
+          "order": 6,
+          "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKREBG8FVQH0LiNq/1598.jpeg",
+          "width": 1900,
+          "height": 1072,
+          "id": 1011786824
+         },
+         {
+          "alt": "",
+          "kind": 2,
+          "order": 7,
+          "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRDgcHsFKnH0LiN9/832b.jpeg",
+          "width": 1600,
+          "height": 902,
+          "id": 1011786827
+         },
+         {
+          "alt": "",
+          "kind": 2,
+          "order": 8,
+          "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyC2Er4V1H0LiOT/637a.jpeg",
+          "width": 1600,
+          "height": 902,
+          "id": 1011786830
+         },
+         {
+          "alt": "",
+          "kind": 2,
+          "order": 9,
+          "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyDrQHrp1H0LiOk/0436.jpeg",
+          "width": 1900,
+          "height": 1072,
+          "id": 1011786833
+         },
+         {
+          "alt": "",
+          "kind": 2,
+          "order": 10,
+          "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyBFnmYBPrH0LiO6/c800.jpeg",
+          "width": 1600,
+          "height": 902,
+          "id": 1011786836
+         },
+         {
+          "alt": "",
+          "kind": 2,
+          "order": 11,
+          "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyBiPBFVoH0LiPh/9f39.jpeg",
+          "width": 1600,
+          "height": 900,
+          "id": 1011786839
+         },
+         {
+          "alt": "",
+          "kind": 2,
+          "order": 12,
+          "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyBuWMSVnH0LiQE/2d6f.jpeg",
+          "width": 1600,
+          "height": 902,
+          "id": 1011786842
+         },
+         {
+          "alt": "",
+          "kind": 2,
+          "order": 13,
+          "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyDrQHrVoH0LiQZ/2fc4.jpeg",
+          "width": 1600,
+          "height": 902,
+          "id": 1011786845
+         },
+         {
+          "alt": "",
+          "kind": 2,
+          "order": 14,
+          "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRB7OXgVUH0LiRA/ea57.jpeg",
+          "width": 1600,
+          "height": 1200,
+          "id": 1011786848
+         },
+         {
+          "alt": "",
+          "kind": 2,
+          "order": 15,
+          "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRIhAnBEnH0LiRW/095d.jpeg",
+          "width": 1600,
+          "height": 1200,
+          "id": 1011786851
+         },
+         {
+          "alt": "",
+          "kind": 2,
+          "order": 16,
+          "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyBFnmY3xH0LiRp/fbac.jpeg",
+          "width": 1600,
+          "height": 902,
+          "id": 1011786854
+         },
+         {
+          "alt": "",
+          "kind": 2,
+          "order": 17,
+          "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyvOo9V1H0LiSD/63b3.jpeg",
+          "width": 1900,
+          "height": 1072,
+          "id": 1011786857
+         },
+         {
+          "alt": "",
+          "kind": 2,
+          "order": 18,
+          "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyBHthwVtH0LiSW/3895.jpeg",
+          "width": 1600,
+          "height": 902,
+          "id": 1011786860
+         },
+         {
+          "alt": "",
+          "kind": 2,
+          "order": 19,
+          "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKREB0TcVkH0LiS1/21d4.jpeg",
+          "width": 1600,
+          "height": 902,
+          "id": 1011786863
+         },
+         {
+          "alt": "",
+          "kind": 2,
+          "order": 20,
+          "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRZSJd0xH0LiTI/ae99.jpeg",
+          "width": 1600,
+          "height": 902,
+          "id": 1011786866
+         },
+         {
+          "alt": "",
+          "kind": 2,
+          "order": 21,
+          "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKREBG8FVeH0LiTX/7435.jpeg",
+          "width": 1600,
+          "height": 902,
+          "id": 1011786869
+         },
+         {
+          "alt": "",
+          "kind": 2,
+          "order": 22,
+          "url": "//d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKREBG8FVQH0LiTq/0944.jpeg",
+          "width": 1900,
+          "height": 1072,
+          "id": 1011786872
+         }
+        ],
+        "matterportUrl": "",
+        "panorama": true,
+        "panoramaData": {
+         "hasPanorama": true,
+         "pid": 95928803,
+         "yaw": 2.723310062730605
+        },
+        "name": "Pronájem bytu 3+kk 85 m²",
+        "note": null,
+        "locality": {
+         "latitude": 49.9839030299217,
+         "longitude": 14.3624321092341,
+         "city": "Praha",
+         "citySeoName": "praha",
+         "cityPart": "Radotín",
+         "cityPartSeoName": "radotin",
+         "country": "Česká republika",
+         "countryId": 112,
+         "district": "Praha 5",
+         "districtId": 5005,
+         "districtSeoName": "praha-5",
+         "entityType": "address",
+         "houseNumber": "565",
+         "geometry": {
+          "geometry": [],
+          "boundingBox": null,
+          "geometryType": null
+         },
+         "inaccuracyType": "address",
+         "municipality": null,
+         "municipalityId": 3468,
+         "municipalitySeoName": null,
+         "quarter": "Praha 16",
+         "quarterId": 101,
+         "region": "Hlavní město Praha",
+         "regionId": 10,
+         "regionSeoName": "hlavni-mesto-praha",
+         "street": "Věštínská",
+         "streetId": 124495,
+         "streetNumber": "2",
+         "streetSeoName": "vestinska",
+         "ward": null,
+         "wardId": 13592,
+         "wardSeoName": null,
+         "zip": 15300
+        },
+        "price": 23000,
+        "priceSummaryCzk": 23000,
+        "priceSummaryOldCzk": null,
+        "priceSummaryUnitCb": {
+         "name": "za měsíc",
+         "value": 2
+        },
+        "priceCzk": 23000,
+        "priceCzkPerSqM": 271,
+        "priceCurrencyCb": {
+         "name": "Kč",
+         "value": 1
+        },
+        "priceUnitCb": {
+         "name": "za měsíc",
+         "value": 2
+        },
+        "premise": {
+         "retargetingId": null,
+         "askId": 13221053,
+         "premisePaidFirmy": false,
+         "companySubjectId": 4074727,
+         "ico": 8487316,
+         "id": 20720,
+         "isSosCustomAdvertCard": false,
+         "logo": "",
+         "name": "Můj domov REALITY",
+         "seoName": "muj-domov-reality",
+         "reviewCount": null,
+         "reviewScore": null,
+         "webUrl": "https://www.mujdomov-reality.cz/nemovitosti",
+         "webVisibleUrl": "https://www.mujdomov-reality.cz/nemovitosti",
+         "locality": {
+          "latitude": 50.1120261111,
+          "longitude": 14.4777305514956,
+          "city": "Praha",
+          "citySeoName": "praha",
+          "cityPart": null,
+          "country": null,
+          "district": "Praha 8",
+          "districtId": 5008,
+          "entityId": 9017965,
+          "entityType": "address",
+          "houseNumber": "527",
+          "municipality": null,
+          "municipalityId": 3468,
+          "quarter": "Praha 8",
+          "quarterId": 115,
+          "quarterSeoName": "praha-8",
+          "region": "Hlavní město Praha",
+          "regionId": 10,
+          "street": "Prosecká",
+          "streetId": 121562,
+          "streetNumber": "24",
+          "ward": "Libeň",
+          "wardId": 14955,
+          "wardSeoName": "liben",
+          "zip": 18000
+         }
+        },
+        "seller": {
+         "rating": null,
+         "reviewCount": null,
+         "image": "//example.invalid/seller.jpeg",
+         "email": "seller@example.invalid",
+         "id": 1,
+         "name": "Example Seller",
+         "phones": [
+          {
+           "phoneType": "TEL",
+           "phone": "+420000000000"
+          },
+          {
+           "phoneType": "MOB",
+           "phone": "+420000000000"
+          }
+         ]
+        },
+        "rus": null,
+        "nearest": [
+         {
+          "description": "MŠ Praha - Radotín, Náměstí Osvoboditelů 1367",
+          "distance": 411,
+          "imgUrl": "https://api.mapy.cz/poiimg/icon/412",
+          "lat": 49.9847297668457,
+          "lon": 14.35682487487793,
+          "name": "kindergarten",
+          "source": "firm",
+          "sourceId": 2336183,
+          "url": "https://www.firmy.cz/detail/2336183-ms-praha-radotin-namesti-osvoboditelu-1367-praha-radotin.html",
+          "lines": [],
+          "photoUrl": "https://d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRBOXzTB5xHz0DG8/1fdd.jpeg",
+          "rating": -1,
+          "reviewCount": 0
+         },
+         {
+          "description": "VELO Restaurant",
+          "distance": 121,
+          "imgUrl": "https://api.mapy.cz/poiimg/icon/133",
+          "lat": 49.984718322753906,
+          "lon": 14.36131763458252,
+          "name": "restaurant",
+          "source": "firm",
+          "sourceId": 13235451,
+          "url": "https://www.firmy.cz/detail/13235451-velo-restaurant-praha-radotin.html",
+          "lines": [],
+          "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_E_H/SKGGtz.jpeg",
+          "rating": 5,
+          "reviewCount": 44
+         },
+         {
+          "description": "Nádraží Radotín",
+          "distance": 30,
+          "imgUrl": "https://api.mapy.cz/poiimg/icon/198",
+          "lat": 49.9840168987,
+          "lon": 14.3620548981,
+          "name": "bus_public_transport",
+          "source": "pubt",
+          "sourceId": 15300928,
+          "url": "https://mapy.cz/zakladni?x=14.3620548981&y=49.9840168987&z=17&source=pubt&id=15300928",
+          "lines": [
+           {
+            "departureDirection": 1,
+            "lineId": "L244",
+            "lineLabel": "244",
+            "poiId": 15300928,
+            "terminus": "Sídliště Radotín",
+            "type": "bus"
+           },
+           {
+            "departureDirection": 1,
+            "lineId": "L248",
+            "lineLabel": "248",
+            "poiId": 15300928,
+            "terminus": "Nádraží Radotín",
+            "type": "bus"
+           },
+           {
+            "departureDirection": 1,
+            "lineId": "L261",
+            "lineLabel": "261",
+            "poiId": 15300928,
+            "terminus": "Velká Chuchle",
+            "type": "bus"
+           },
+           {
+            "departureDirection": -1,
+            "lineId": "L309",
+            "lineLabel": "309",
+            "poiId": 15300928,
+            "terminus": "Zličín",
+            "type": "bus"
+           },
+           {
+            "departureDirection": 1,
+            "lineId": "L313",
+            "lineLabel": "313",
+            "poiId": 15300928,
+            "terminus": "Choteč",
+            "type": "bus"
+           },
+           {
+            "departureDirection": 1,
+            "lineId": "L951",
+            "lineLabel": "951",
+            "poiId": 15300928,
+            "terminus": "Dobřichovice, pošta",
+            "type": "bus"
+           }
+          ],
+          "photoUrl": "https://d18-a.sdn.cz/d_18/c_img_qF_B/nOdL4BtPEyBuWMSl8Hw5BJ1/1471.jpeg",
+          "rating": -1,
+          "reviewCount": 0
+         },
+         {
+          "description": "Žabka",
+          "distance": 20,
+          "imgUrl": "https://api.mapy.cz/poiimg/icon/423",
+          "lat": 49.98393249511719,
+          "lon": 14.362710952758789,
+          "name": "small_shop",
+          "source": "firm",
+          "sourceId": 12976625,
+          "url": "https://www.firmy.cz/detail/12976625-zabka-praha-radotin.html",
+          "lines": [],
+          "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_G_C/M8UBoYl.jpeg",
+          "rating": 5,
+          "reviewCount": 2
+         },
+         {
+          "description": "Víceúčelové sportovní hřiště",
+          "distance": 291,
+          "imgUrl": "https://api.mapy.cz/poiimg/icon/144",
+          "lat": 49.98503124870993,
+          "lon": 14.358761887997384,
+          "name": "sports",
+          "source": "base",
+          "sourceId": 2639320,
+          "url": "https://mapy.cz/zakladni?x=14.358761887997384&y=49.98503124870993&z=17&source=base&id=2639320",
+          "lines": [],
+          "photoUrl": "https://d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRCO7AFDRnHz96g0/ae48.jpeg",
+          "rating": -1,
+          "reviewCount": 0
+         },
+         {
+          "description": "Gymnázium Oty Pavla",
+          "distance": 311,
+          "imgUrl": "https://api.mapy.cz/poiimg/icon/142",
+          "lat": 49.981319427490234,
+          "lon": 14.360776901245117,
+          "name": "school",
+          "source": "firm",
+          "sourceId": 362392,
+          "url": "https://www.firmy.cz/detail/362392-gymnazium-oty-pavla-praha-radotin.html",
+          "lines": [],
+          "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_H_D/DjPiJO.jpeg",
+          "rating": 4,
+          "reviewCount": 10
+         },
+         {
+          "description": "",
+          "distance": 114,
+          "imgUrl": "https://api.mapy.cz/poiimg/icon/204",
+          "lat": 49.9846424696621,
+          "lon": 14.3613345738659,
+          "name": "playground",
+          "source": "base",
+          "sourceId": 2383367,
+          "url": "https://mapy.cz/zakladni?x=14.3613345738659&y=49.9846424696621&z=17&source=base&id=2383367",
+          "lines": [],
+          "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_QP_n/CbgBQH.jpeg",
+          "rating": -1,
+          "reviewCount": 0
+         },
+         {
+          "description": "MUDr. Roman Holzknecht",
+          "distance": 134,
+          "imgUrl": "https://api.mapy.cz/poiimg/icon/405",
+          "lat": 49.983028411865234,
+          "lon": 14.363729476928711,
+          "name": "medic",
+          "source": "firm",
+          "sourceId": 12977601,
+          "url": "https://www.firmy.cz/detail/12977601-mudr-roman-holzknecht-praha-radotin.html",
+          "lines": [],
+          "photoUrl": "https://d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRBOXzTBLNHzSadf/0857.jpeg",
+          "rating": -1,
+          "reviewCount": 0
+         },
+         {
+          "description": "Pošta Praha 512 - Česká pošta, s.p.",
+          "distance": 279,
+          "imgUrl": "https://api.mapy.cz/poiimg/icon/122",
+          "lat": 49.983890533447266,
+          "lon": 14.358536720275879,
+          "name": "post_office",
+          "source": "firm",
+          "sourceId": 217456,
+          "url": "https://www.firmy.cz/detail/217456-posta-praha-512-praha-radotin.html",
+          "lines": [],
+          "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_G_C/OZpY5Q.jpeg",
+          "rating": 3,
+          "reviewCount": 34
+         },
+         {
+          "description": "Bankomat ČSOB",
+          "distance": 117,
+          "imgUrl": "https://api.mapy.cz/poiimg/icon/28",
+          "lat": 49.98293685913086,
+          "lon": 14.36178207397461,
+          "name": "atm",
+          "source": "firm",
+          "sourceId": 12776081,
+          "url": "https://www.firmy.cz/detail/12776081-bankomat-csob-praha-radotin.html",
+          "lines": [],
+          "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_H_D/hFjiJX.jpeg",
+          "rating": 5,
+          "reviewCount": 2
+         },
+         {
+          "description": "Kino Radotín",
+          "distance": 435,
+          "imgUrl": "https://api.mapy.cz/poiimg/icon/62",
+          "lat": 49.9841423034668,
+          "lon": 14.356354713439941,
+          "name": "movies",
+          "source": "firm",
+          "sourceId": 457358,
+          "url": "https://www.firmy.cz/detail/457358-kino-radotin-praha-radotin.html",
+          "lines": [],
+          "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_G_C/Wgkizb.jpeg",
+          "rating": 5,
+          "reviewCount": 14
+         },
+         {
+          "description": "Cukrárna Panda",
+          "distance": 199,
+          "imgUrl": "https://api.mapy.cz/poiimg/icon/38",
+          "lat": 49.98524856567383,
+          "lon": 14.364258766174316,
+          "name": "candy_shop",
+          "source": "firm",
+          "sourceId": 13890511,
+          "url": "https://www.firmy.cz/detail/13890511-cukrarna-panda-praha-radotin.html",
+          "lines": [],
+          "photoUrl": "https://d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRB7OXgBAGHzTOwe/896a.jpeg",
+          "rating": 5,
+          "reviewCount": 2
+         },
+         {
+          "description": "MVDr. Barbora Schillová",
+          "distance": 259,
+          "imgUrl": "https://api.mapy.cz/poiimg/icon/164",
+          "lat": 49.98292541503906,
+          "lon": 14.359151840209961,
+          "name": "vet",
+          "source": "firm",
+          "sourceId": 2131900,
+          "url": "https://www.firmy.cz/detail/2131900-mvdr-barbora-schillova-praha-radotin.html",
+          "lines": [],
+          "photoUrl": "https://d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRD1EvuB80Hzz0ae/22a6.jpeg",
+          "rating": 5,
+          "reviewCount": 2
+         },
+         {
+          "description": "Lékárna PharmDr. Jana Schwarzová",
+          "distance": 34,
+          "imgUrl": "https://api.mapy.cz/poiimg/icon/72",
+          "lat": 49.98398971557617,
+          "lon": 14.362889289855957,
+          "name": "drugstore",
+          "source": "firm",
+          "sourceId": 375675,
+          "url": "https://www.firmy.cz/detail/375675-lekarna-pharmdr-jana-schwarzova-praha-radotin.html",
+          "lines": [],
+          "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_H_D/eMmYyp.jpeg",
+          "rating": 5,
+          "reviewCount": 13
+         },
+         {
+          "description": "Hospůdka u draka v exilu",
+          "distance": 195,
+          "imgUrl": "https://api.mapy.cz/poiimg/icon/362",
+          "lat": 49.98434066772461,
+          "lon": 14.359792709350586,
+          "name": "tavern",
+          "source": "firm",
+          "sourceId": 13811765,
+          "url": "https://www.firmy.cz/detail/13811765-hospudka-u-draka-v-exilu-praha-radotin.html",
+          "lines": [],
+          "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_oY_A/kBkJRwehYQrbpr7C2i9kU/21f1.jpeg",
+          "rating": -1,
+          "reviewCount": 0
+         },
+         {
+          "description": "Praha-Radotín",
+          "distance": 268,
+          "imgUrl": "https://api.mapy.cz/poiimg/icon/169",
+          "lat": 49.9860127596,
+          "lon": 14.3642472065,
+          "name": "train",
+          "source": "pubt",
+          "sourceId": 15212574,
+          "url": "https://mapy.cz/zakladni?x=14.3642472065&y=49.9860127596&z=17&source=pubt&id=15212574",
+          "lines": [
+           {
+            "departureDirection": -1,
+            "lineId": "Ex6",
+            "lineLabel": "Ex6",
+            "poiId": 15212574,
+            "terminus": "Praha hlavní nádraží",
+            "type": "vlak"
+           },
+           {
+            "departureDirection": 1,
+            "lineId": "Ex6",
+            "lineLabel": "Ex6",
+            "poiId": 15212574,
+            "terminus": "Plzeň hlavní nádraží",
+            "type": "vlak"
+           },
+           {
+            "departureDirection": -1,
+            "lineId": "Os_9900",
+            "lineLabel": "Os 9900",
+            "poiId": 15212574,
+            "terminus": "Řevnice",
+            "type": "vlak"
+           },
+           {
+            "departureDirection": -1,
+            "lineId": "Os_9940",
+            "lineLabel": "Os 9940",
+            "poiId": 15212574,
+            "terminus": "Řevnice",
+            "type": "vlak"
+           },
+           {
+            "departureDirection": -1,
+            "lineId": "Os_9942",
+            "lineLabel": "Os 9942",
+            "poiId": 15212574,
+            "terminus": "Řevnice",
+            "type": "vlak"
+           },
+           {
+            "departureDirection": -1,
+            "lineId": "R16",
+            "lineLabel": "R16",
+            "poiId": 15212574,
+            "terminus": "Praha hlavní nádraží",
+            "type": "vlak"
+           },
+           {
+            "departureDirection": 1,
+            "lineId": "R16",
+            "lineLabel": "R16",
+            "poiId": 15212574,
+            "terminus": "Klatovy",
+            "type": "vlak"
+           },
+           {
+            "departureDirection": 1,
+            "lineId": "R_748",
+            "lineLabel": "R 748",
+            "poiId": 15212574,
+            "terminus": "Plzeň hlavní nádraží",
+            "type": "vlak"
+           },
+           {
+            "departureDirection": -1,
+            "lineId": "SČ-S7",
+            "lineLabel": "S7",
+            "poiId": 15212574,
+            "terminus": "Beroun",
+            "type": "vlak"
+           },
+           {
+            "departureDirection": 1,
+            "lineId": "SČ-S7",
+            "lineLabel": "S7",
+            "poiId": 15212574,
+            "terminus": "Praha hlavní nádraží",
+            "type": "vlak"
+           },
+           {
+            "departureDirection": -1,
+            "lineId": "SČ-T6",
+            "lineLabel": "T6",
+            "poiId": 15212574,
+            "terminus": "Blatná",
+            "type": "vlak"
+           },
+           {
+            "departureDirection": 1,
+            "lineId": "SČ-T6",
+            "lineLabel": "T6",
+            "poiId": 15212574,
+            "terminus": "Praha hlavní nádraží",
+            "type": "vlak"
+           }
+          ],
+          "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_QP_o/H3DFVC.jpeg",
+          "rating": -1,
+          "reviewCount": 0
+         },
+         {
+          "description": "Divadlo Jana Kašky",
+          "distance": 2596,
+          "imgUrl": "https://api.mapy.cz/poiimg/icon/39",
+          "lat": 49.97565460205078,
+          "lon": 14.39638900756836,
+          "name": "theater",
+          "source": "firm",
+          "sourceId": 12978086,
+          "url": "https://www.firmy.cz/detail/12978086-divadlo-jana-kasky-praha-zbraslav.html",
+          "lines": [],
+          "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_p7_A/nDJ4VEZEqxQDMWpyFiIzZI/fe9b.jpeg",
+          "rating": 5,
+          "reviewCount": 6
+         },
+         {
+          "description": "Nádraží Modřany",
+          "distance": 3678,
+          "imgUrl": "https://api.mapy.cz/poiimg/icon/155",
+          "lat": 50.003939,
+          "lon": 14.40337,
+          "name": "tram",
+          "source": "pubt",
+          "sourceId": 15303707,
+          "url": "https://mapy.cz/zakladni?x=14.40337&y=50.003939&z=17&source=pubt&id=15303707",
+          "lines": [
+           {
+            "departureDirection": -1,
+            "lineId": "L17",
+            "lineLabel": "17",
+            "poiId": 15303707,
+            "terminus": "Libuš",
+            "type": "tram"
+           },
+           {
+            "departureDirection": -1,
+            "lineId": "L20",
+            "lineLabel": "20",
+            "poiId": 15303707,
+            "terminus": "Sídliště Modřany",
+            "type": "tram"
+           },
+           {
+            "departureDirection": -1,
+            "lineId": "L3",
+            "lineLabel": "3",
+            "poiId": 15303707,
+            "terminus": "Sídliště Modřany",
+            "type": "tram"
+           },
+           {
+            "departureDirection": 1,
+            "lineId": "L92",
+            "lineLabel": "92",
+            "poiId": 15303707,
+            "terminus": "Sídliště Modřany",
+            "type": "tram"
+           }
+          ],
+          "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_og_A/kOzkBkwYBTDPt7SH3CFR0CQ3/4400.mpo",
+          "rating": -1,
+          "reviewCount": 0
+         },
+         {
+          "description": "Kaufland",
+          "distance": 4517,
+          "imgUrl": "https://api.mapy.cz/poiimg/icon/101",
+          "lat": 50.024105072021484,
+          "lon": 14.353325843811035,
+          "name": "shop",
+          "source": "firm",
+          "sourceId": 13785500,
+          "url": "https://www.firmy.cz/detail/13785500-kaufland-praha.html",
+          "lines": [],
+          "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_oW_A/kPWmeC9soBKkMNW2CeHpba/f6b9.jpeg",
+          "rating": 4,
+          "reviewCount": 51
+         },
+         {
+          "description": "Lužiny",
+          "distance": 7094,
+          "imgUrl": "https://api.mapy.cz/poiimg/icon/262",
+          "lat": 50.0445387268,
+          "lon": 14.3315625119,
+          "name": "metro",
+          "source": "pubt",
+          "sourceId": 15206942,
+          "url": "https://mapy.cz/zakladni?x=14.3315625119&y=50.0445387268&z=17&source=pubt&id=15206942",
+          "lines": [],
+          "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_oV_A/nO1SBfAluiBJE31YGCMmZYA/4b2e.jpeg",
+          "rating": -1,
+          "reviewCount": 0
+         },
+         {
+          "description": "Kovářovic mez",
+          "distance": 6678,
+          "imgUrl": "https://api.mapy.cz/poiimg/icon/368",
+          "lat": 50.04395254566995,
+          "lon": 14.36107759920759,
+          "name": "natural_attraction",
+          "source": "base",
+          "sourceId": 2339664,
+          "url": "https://mapy.cz/zakladni?x=14.36107759920759&y=50.04395254566995&z=17&source=base&id=2339664",
+          "lines": [],
+          "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_p7_A/kOzkBkwYBTBLrRlPWKFg4gow/dac4.jpeg",
+          "rating": -1,
+          "reviewCount": 0
+         }
+        ],
+        "videos": [],
+        "extendedPois": {
+         "transport": {
+          "url": "https://mapy.cz/zakladni?x=14.3624321092341&y=49.9839030299217&z=16&q=zast%C3%A1vky",
+          "values": [
+           {
+            "description": "Nádraží Radotín",
+            "distance": 30,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/198",
+            "lat": 49.9840168987,
+            "lon": 14.3620548981,
+            "name": "bus_public_transport",
+            "source": "pubt",
+            "sourceId": 15300928,
+            "url": "https://mapy.cz/zakladni?x=14.3620548981&y=49.9840168987&z=17&source=pubt&id=15300928",
+            "lines": [
+             {
+              "departureDirection": 1,
+              "lineId": "L244",
+              "lineLabel": "244",
+              "poiId": 15300928,
+              "terminus": "Sídliště Radotín",
+              "type": "bus"
+             },
+             {
+              "departureDirection": 1,
+              "lineId": "L248",
+              "lineLabel": "248",
+              "poiId": 15300928,
+              "terminus": "Nádraží Radotín",
+              "type": "bus"
+             },
+             {
+              "departureDirection": 1,
+              "lineId": "L261",
+              "lineLabel": "261",
+              "poiId": 15300928,
+              "terminus": "Velká Chuchle",
+              "type": "bus"
+             },
+             {
+              "departureDirection": -1,
+              "lineId": "L309",
+              "lineLabel": "309",
+              "poiId": 15300928,
+              "terminus": "Zličín",
+              "type": "bus"
+             },
+             {
+              "departureDirection": 1,
+              "lineId": "L313",
+              "lineLabel": "313",
+              "poiId": 15300928,
+              "terminus": "Choteč",
+              "type": "bus"
+             },
+             {
+              "departureDirection": 1,
+              "lineId": "L951",
+              "lineLabel": "951",
+              "poiId": 15300928,
+              "terminus": "Dobřichovice, pošta",
+              "type": "bus"
+             }
+            ],
+            "photoUrl": "https://d18-a.sdn.cz/d_18/c_img_qF_B/nOdL4BtPEyBuWMSl8Hw5BJ1/1471.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Nádraží Radotín",
+            "distance": 31,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/198",
+            "lat": 49.98415,
+            "lon": 14.36223,
+            "name": "bus_public_transport_2",
+            "source": "pubt",
+            "sourceId": 15304032,
+            "url": "https://mapy.cz/zakladni?x=14.36223&y=49.98415&z=17&source=pubt&id=15304032",
+            "lines": [
+             {
+              "departureDirection": -1,
+              "lineId": "L120",
+              "lineLabel": "120",
+              "poiId": 15304032,
+              "terminus": "Na Knížecí",
+              "type": "bus"
+             },
+             {
+              "departureDirection": 1,
+              "lineId": "L245",
+              "lineLabel": "245",
+              "poiId": 15304032,
+              "terminus": "Nádraží Radotín",
+              "type": "bus"
+             },
+             {
+              "departureDirection": -1,
+              "lineId": "L246",
+              "lineLabel": "246",
+              "poiId": 15304032,
+              "terminus": "Zličín",
+              "type": "bus"
+             }
+            ],
+            "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_qC_A/kQMlcCt5zmEA35RFO2G2oUr7/3b23.mpo",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Nádraží Radotín",
+            "distance": 79,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/198",
+            "lat": 49.9844567336,
+            "lon": 14.3631340056,
+            "name": "bus_public_transport_3",
+            "source": "pubt",
+            "sourceId": 15304118,
+            "url": "https://mapy.cz/zakladni?x=14.3631340056&y=49.9844567336&z=17&source=pubt&id=15304118",
+            "lines": [],
+            "photoUrl": "https://d18-a.sdn.cz/d_18/c_img_qF_B/k0OqwCKRD1EvuDNZHw5BJD/562f.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Nádraží Radotín",
+            "distance": 90,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/198",
+            "lat": 49.9845236829,
+            "lon": 14.3632464579,
+            "name": "bus_public_transport_4",
+            "source": "pubt",
+            "sourceId": 15301576,
+            "url": "https://mapy.cz/zakladni?x=14.3632464579&y=49.9845236829&z=17&source=pubt&id=15301576",
+            "lines": [
+             {
+              "departureDirection": 1,
+              "lineId": "L269",
+              "lineLabel": "269",
+              "poiId": 15301576,
+              "terminus": "Škola Radotín",
+              "type": "bus"
+             }
+            ],
+            "photoUrl": "https://d18-a.sdn.cz/d_18/c_img_qF_B/nOdL4BtPEyBuWMSmiHw5NH5/51f3.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Nádraží Radotín",
+            "distance": 138,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/198",
+            "lat": 49.984886576,
+            "lon": 14.3636113207,
+            "name": "bus_public_transport_5",
+            "source": "pubt",
+            "sourceId": 15304305,
+            "url": "https://mapy.cz/zakladni?x=14.3636113207&y=49.984886576&z=17&source=pubt&id=15304305",
+            "lines": [
+             {
+              "departureDirection": -1,
+              "lineId": "L244",
+              "lineLabel": "244",
+              "poiId": 15304305,
+              "terminus": "Smíchovské nádraží",
+              "type": "bus"
+             },
+             {
+              "departureDirection": 1,
+              "lineId": "L246",
+              "lineLabel": "246",
+              "poiId": 15304305,
+              "terminus": "Čechova čtvrť",
+              "type": "bus"
+             },
+             {
+              "departureDirection": 1,
+              "lineId": "L247",
+              "lineLabel": "247",
+              "poiId": 15304305,
+              "terminus": "Zbraslav",
+              "type": "bus"
+             },
+             {
+              "departureDirection": 1,
+              "lineId": "L261",
+              "lineLabel": "261",
+              "poiId": 15304305,
+              "terminus": "Velká Chuchle",
+              "type": "bus"
+             },
+             {
+              "departureDirection": -1,
+              "lineId": "L951",
+              "lineLabel": "951",
+              "poiId": 15304305,
+              "terminus": "Smíchovské nádraží",
+              "type": "bus"
+             }
+            ],
+            "photoUrl": "https://d18-a.sdn.cz/d_18/c_img_qF_B/k0OqwCKRZSJdE7JHw5NIn/5a37.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Praha-Radotín",
+            "distance": 268,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/169",
+            "lat": 49.9860127596,
+            "lon": 14.3642472065,
+            "name": "train",
+            "source": "pubt",
+            "sourceId": 15212574,
+            "url": "https://mapy.cz/zakladni?x=14.3642472065&y=49.9860127596&z=17&source=pubt&id=15212574",
+            "lines": [
+             {
+              "departureDirection": -1,
+              "lineId": "Ex6",
+              "lineLabel": "Ex6",
+              "poiId": 15212574,
+              "terminus": "Praha hlavní nádraží",
+              "type": "vlak"
+             },
+             {
+              "departureDirection": 1,
+              "lineId": "Ex6",
+              "lineLabel": "Ex6",
+              "poiId": 15212574,
+              "terminus": "Plzeň hlavní nádraží",
+              "type": "vlak"
+             },
+             {
+              "departureDirection": -1,
+              "lineId": "Os_9900",
+              "lineLabel": "Os 9900",
+              "poiId": 15212574,
+              "terminus": "Řevnice",
+              "type": "vlak"
+             },
+             {
+              "departureDirection": -1,
+              "lineId": "Os_9940",
+              "lineLabel": "Os 9940",
+              "poiId": 15212574,
+              "terminus": "Řevnice",
+              "type": "vlak"
+             },
+             {
+              "departureDirection": -1,
+              "lineId": "Os_9942",
+              "lineLabel": "Os 9942",
+              "poiId": 15212574,
+              "terminus": "Řevnice",
+              "type": "vlak"
+             },
+             {
+              "departureDirection": -1,
+              "lineId": "R16",
+              "lineLabel": "R16",
+              "poiId": 15212574,
+              "terminus": "Praha hlavní nádraží",
+              "type": "vlak"
+             },
+             {
+              "departureDirection": 1,
+              "lineId": "R16",
+              "lineLabel": "R16",
+              "poiId": 15212574,
+              "terminus": "Klatovy",
+              "type": "vlak"
+             },
+             {
+              "departureDirection": 1,
+              "lineId": "R_748",
+              "lineLabel": "R 748",
+              "poiId": 15212574,
+              "terminus": "Plzeň hlavní nádraží",
+              "type": "vlak"
+             },
+             {
+              "departureDirection": -1,
+              "lineId": "SČ-S7",
+              "lineLabel": "S7",
+              "poiId": 15212574,
+              "terminus": "Beroun",
+              "type": "vlak"
+             },
+             {
+              "departureDirection": 1,
+              "lineId": "SČ-S7",
+              "lineLabel": "S7",
+              "poiId": 15212574,
+              "terminus": "Praha hlavní nádraží",
+              "type": "vlak"
+             },
+             {
+              "departureDirection": -1,
+              "lineId": "SČ-T6",
+              "lineLabel": "T6",
+              "poiId": 15212574,
+              "terminus": "Blatná",
+              "type": "vlak"
+             },
+             {
+              "departureDirection": 1,
+              "lineId": "SČ-T6",
+              "lineLabel": "T6",
+              "poiId": 15212574,
+              "terminus": "Praha hlavní nádraží",
+              "type": "vlak"
+             }
+            ],
+            "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_QP_o/H3DFVC.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Praha-Zbraslav",
+            "distance": 3047,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/169",
+            "lat": 49.9706472479,
+            "lon": 14.3997306514,
+            "name": "train_2",
+            "source": "pubt",
+            "sourceId": 15212588,
+            "url": "https://mapy.cz/zakladni?x=14.3997306514&y=49.9706472479&z=17&source=pubt&id=15212588",
+            "lines": [
+             {
+              "departureDirection": 1,
+              "lineId": "SČ-S8",
+              "lineLabel": "S8",
+              "poiId": 15212588,
+              "terminus": "Praha hlavní nádraží",
+              "type": "vlak"
+             },
+             {
+              "departureDirection": -1,
+              "lineId": "SČ-S8",
+              "lineLabel": "S8",
+              "poiId": 15212588,
+              "terminus": "Čerčany",
+              "type": "vlak"
+             },
+             {
+              "departureDirection": -1,
+              "lineId": "SČ-S88",
+              "lineLabel": "S88",
+              "poiId": 15212588,
+              "terminus": "Dobříš",
+              "type": "vlak"
+             },
+             {
+              "departureDirection": 1,
+              "lineId": "SČ-S88",
+              "lineLabel": "S88",
+              "poiId": 15212588,
+              "terminus": "Praha hlavní nádraží",
+              "type": "vlak"
+             }
+            ],
+            "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_og_A/nDJ4VEZEqCaOxZIr9FMWNO2/1697.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Praha-Komořany",
+            "distance": 3104,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/169",
+            "lat": 49.9910197984,
+            "lon": 14.404415737,
+            "name": "train_3",
+            "source": "pubt",
+            "sourceId": 15212569,
+            "url": "https://mapy.cz/zakladni?x=14.404415737&y=49.9910197984&z=17&source=pubt&id=15212569",
+            "lines": [
+             {
+              "departureDirection": 1,
+              "lineId": "SČ-S8",
+              "lineLabel": "S8",
+              "poiId": 15212569,
+              "terminus": "Praha hlavní nádraží",
+              "type": "vlak"
+             },
+             {
+              "departureDirection": -1,
+              "lineId": "SČ-S8",
+              "lineLabel": "S8",
+              "poiId": 15212569,
+              "terminus": "Čerčany",
+              "type": "vlak"
+             },
+             {
+              "departureDirection": -1,
+              "lineId": "SČ-S88",
+              "lineLabel": "S88",
+              "poiId": 15212569,
+              "terminus": "Dobříš",
+              "type": "vlak"
+             },
+             {
+              "departureDirection": 1,
+              "lineId": "SČ-S88",
+              "lineLabel": "S88",
+              "poiId": 15212569,
+              "terminus": "Praha hlavní nádraží",
+              "type": "vlak"
+             }
+            ],
+            "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_qD_A/nO2CysqjGrBgjUXJKbHHz8K1/a111.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Praha-Velká Chuchle",
+            "distance": 3453,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/169",
+            "lat": 50.00986219606202,
+            "lon": 14.38895309127992,
+            "name": "train_4",
+            "source": "pubt",
+            "sourceId": 23846464,
+            "url": "https://mapy.cz/zakladni?x=14.38895309127992&y=50.00986219606202&z=17&source=pubt&id=23846464",
+            "lines": [
+             {
+              "departureDirection": -1,
+              "lineId": "SČ-S7",
+              "lineLabel": "S7",
+              "poiId": 23846464,
+              "terminus": "Beroun",
+              "type": "vlak"
+             },
+             {
+              "departureDirection": 1,
+              "lineId": "SČ-S7",
+              "lineLabel": "S7",
+              "poiId": 23846464,
+              "terminus": "Praha hlavní nádraží",
+              "type": "vlak"
+             }
+            ],
+            "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_QI_s/swQWr1.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Praha-Modřany zastávka",
+            "distance": 3667,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/169",
+            "lat": 50.0039862735,
+            "lon": 14.4031168361,
+            "name": "train_5",
+            "source": "pubt",
+            "sourceId": 15212573,
+            "url": "https://mapy.cz/zakladni?x=14.4031168361&y=50.0039862735&z=17&source=pubt&id=15212573",
+            "lines": [
+             {
+              "departureDirection": 1,
+              "lineId": "SČ-S8",
+              "lineLabel": "S8",
+              "poiId": 15212573,
+              "terminus": "Praha hlavní nádraží",
+              "type": "vlak"
+             },
+             {
+              "departureDirection": -1,
+              "lineId": "SČ-S8",
+              "lineLabel": "S8",
+              "poiId": 15212573,
+              "terminus": "Čerčany",
+              "type": "vlak"
+             },
+             {
+              "departureDirection": -1,
+              "lineId": "SČ-S88",
+              "lineLabel": "S88",
+              "poiId": 15212573,
+              "terminus": "Dobříš",
+              "type": "vlak"
+             },
+             {
+              "departureDirection": 1,
+              "lineId": "SČ-S88",
+              "lineLabel": "S88",
+              "poiId": 15212573,
+              "terminus": "Praha hlavní nádraží",
+              "type": "vlak"
+             }
+            ],
+            "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_p8_A/kY1K2LlXQJGqrBn9F5nBsk/8135.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Nádraží Modřany",
+            "distance": 3678,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/155",
+            "lat": 50.003939,
+            "lon": 14.40337,
+            "name": "tram",
+            "source": "pubt",
+            "sourceId": 15303707,
+            "url": "https://mapy.cz/zakladni?x=14.40337&y=50.003939&z=17&source=pubt&id=15303707",
+            "lines": [
+             {
+              "departureDirection": -1,
+              "lineId": "L17",
+              "lineLabel": "17",
+              "poiId": 15303707,
+              "terminus": "Libuš",
+              "type": "tram"
+             },
+             {
+              "departureDirection": -1,
+              "lineId": "L20",
+              "lineLabel": "20",
+              "poiId": 15303707,
+              "terminus": "Sídliště Modřany",
+              "type": "tram"
+             },
+             {
+              "departureDirection": -1,
+              "lineId": "L3",
+              "lineLabel": "3",
+              "poiId": 15303707,
+              "terminus": "Sídliště Modřany",
+              "type": "tram"
+             },
+             {
+              "departureDirection": 1,
+              "lineId": "L92",
+              "lineLabel": "92",
+              "poiId": 15303707,
+              "terminus": "Sídliště Modřany",
+              "type": "tram"
+             }
+            ],
+            "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_og_A/kOzkBkwYBTDPt7SH3CFR0CQ3/4400.mpo",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Nádraží Modřany",
+            "distance": 3718,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/155",
+            "lat": 50.0045838938,
+            "lon": 14.4033058505,
+            "name": "tram_2",
+            "source": "pubt",
+            "sourceId": 15300747,
+            "url": "https://mapy.cz/zakladni?x=14.4033058505&y=50.0045838938&z=17&source=pubt&id=15300747",
+            "lines": [
+             {
+              "departureDirection": 1,
+              "lineId": "L17",
+              "lineLabel": "17",
+              "poiId": 15300747,
+              "terminus": "Vozovna Kobylisy",
+              "type": "tram"
+             },
+             {
+              "departureDirection": 1,
+              "lineId": "L20",
+              "lineLabel": "20",
+              "poiId": 15300747,
+              "terminus": "Dědina",
+              "type": "tram"
+             },
+             {
+              "departureDirection": 1,
+              "lineId": "L3",
+              "lineLabel": "3",
+              "poiId": 15300747,
+              "terminus": "Kobylisy",
+              "type": "tram"
+             },
+             {
+              "departureDirection": -1,
+              "lineId": "L92",
+              "lineLabel": "92",
+              "poiId": 15300747,
+              "terminus": "Lehovec",
+              "type": "tram"
+             }
+            ],
+            "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_p8_A/nPVpfd5QLLbHLYIS1F5nPBM/7512.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Čechova čtvrť",
+            "distance": 3942,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/155",
+            "lat": 50.002234502,
+            "lon": 14.4096335024,
+            "name": "tram_3",
+            "source": "pubt",
+            "sourceId": 15305341,
+            "url": "https://mapy.cz/zakladni?x=14.4096335024&y=50.002234502&z=17&source=pubt&id=15305341",
+            "lines": [
+             {
+              "departureDirection": 1,
+              "lineId": "L17",
+              "lineLabel": "17",
+              "poiId": 15305341,
+              "terminus": "Vozovna Kobylisy",
+              "type": "tram"
+             },
+             {
+              "departureDirection": 1,
+              "lineId": "L20",
+              "lineLabel": "20",
+              "poiId": 15305341,
+              "terminus": "Dědina",
+              "type": "tram"
+             },
+             {
+              "departureDirection": 1,
+              "lineId": "L3",
+              "lineLabel": "3",
+              "poiId": 15305341,
+              "terminus": "Kobylisy",
+              "type": "tram"
+             },
+             {
+              "departureDirection": -1,
+              "lineId": "L92",
+              "lineLabel": "92",
+              "poiId": 15305341,
+              "terminus": "Lehovec",
+              "type": "tram"
+             }
+            ],
+            "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_QQ_w/c9cC9J.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Modřanská škola",
+            "distance": 3987,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/155",
+            "lat": 50.00842901587741,
+            "lon": 14.40311301617308,
+            "name": "tram_4",
+            "source": "pubt",
+            "sourceId": 15302865,
+            "url": "https://mapy.cz/zakladni?x=14.40311301617308&y=50.00842901587741&z=17&source=pubt&id=15302865",
+            "lines": [
+             {
+              "departureDirection": -1,
+              "lineId": "L17",
+              "lineLabel": "17",
+              "poiId": 15302865,
+              "terminus": "Libuš",
+              "type": "tram"
+             },
+             {
+              "departureDirection": -1,
+              "lineId": "L20",
+              "lineLabel": "20",
+              "poiId": 15302865,
+              "terminus": "Sídliště Modřany",
+              "type": "tram"
+             },
+             {
+              "departureDirection": -1,
+              "lineId": "L3",
+              "lineLabel": "3",
+              "poiId": 15302865,
+              "terminus": "Sídliště Modřany",
+              "type": "tram"
+             },
+             {
+              "departureDirection": 1,
+              "lineId": "L92",
+              "lineLabel": "92",
+              "poiId": 15302865,
+              "terminus": "Sídliště Modřany",
+              "type": "tram"
+             }
+            ],
+            "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_oa_A/kFWXc8OzrUUXBINDf5rOa/73a3.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Čechova čtvrť",
+            "distance": 3998,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/155",
+            "lat": 50.0022019372,
+            "lon": 14.4105810408,
+            "name": "tram_5",
+            "source": "pubt",
+            "sourceId": 15300405,
+            "url": "https://mapy.cz/zakladni?x=14.4105810408&y=50.0022019372&z=17&source=pubt&id=15300405",
+            "lines": [
+             {
+              "departureDirection": -1,
+              "lineId": "L17",
+              "lineLabel": "17",
+              "poiId": 15300405,
+              "terminus": "Libuš",
+              "type": "tram"
+             },
+             {
+              "departureDirection": -1,
+              "lineId": "L20",
+              "lineLabel": "20",
+              "poiId": 15300405,
+              "terminus": "Sídliště Modřany",
+              "type": "tram"
+             },
+             {
+              "departureDirection": -1,
+              "lineId": "L3",
+              "lineLabel": "3",
+              "poiId": 15300405,
+              "terminus": "Sídliště Modřany",
+              "type": "tram"
+             },
+             {
+              "departureDirection": 1,
+              "lineId": "L92",
+              "lineLabel": "92",
+              "poiId": 15300405,
+              "terminus": "Sídliště Modřany",
+              "type": "tram"
+             }
+            ],
+            "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_QI_w/IcdDCr.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Lužiny",
+            "distance": 7094,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/262",
+            "lat": 50.0445387268,
+            "lon": 14.3315625119,
+            "name": "metro",
+            "source": "pubt",
+            "sourceId": 15206942,
+            "url": "https://mapy.cz/zakladni?x=14.3315625119&y=50.0445387268&z=17&source=pubt&id=15206942",
+            "lines": [],
+            "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_oV_A/nO1SBfAluiBJE31YGCMmZYA/4b2e.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Lužiny",
+            "distance": 7099,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/262",
+            "lat": 50.0445971681,
+            "lon": 14.3316074153,
+            "name": "metro_2",
+            "source": "pubt",
+            "sourceId": 18076136,
+            "url": "https://mapy.cz/zakladni?x=14.3316074153&y=50.0445971681&z=17&source=pubt&id=18076136",
+            "lines": [],
+            "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_QL_z/qnDBSWg.mpo",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Lužiny",
+            "distance": 7107,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/262",
+            "lat": 50.0446554396,
+            "lon": 14.3315259748,
+            "name": "metro_3",
+            "source": "pubt",
+            "sourceId": 15200252,
+            "url": "https://mapy.cz/zakladni?x=14.3315259748&y=50.0446554396&z=17&source=pubt&id=15200252",
+            "lines": [
+             {
+              "departureDirection": 1,
+              "lineId": "L992",
+              "lineLabel": "B",
+              "poiId": 15200252,
+              "terminus": "Černý Most",
+              "type": "metro"
+             },
+             {
+              "departureDirection": -1,
+              "lineId": "L992",
+              "lineLabel": "B",
+              "poiId": 15200252,
+              "terminus": "Zličín",
+              "type": "metro"
+             }
+            ],
+            "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_F_F/gny63.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Luka",
+            "distance": 7416,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/262",
+            "lat": 50.0453011029,
+            "lon": 14.3218939478,
+            "name": "metro_4",
+            "source": "pubt",
+            "sourceId": 15200253,
+            "url": "https://mapy.cz/zakladni?x=14.3218939478&y=50.0453011029&z=17&source=pubt&id=15200253",
+            "lines": [
+             {
+              "departureDirection": -1,
+              "lineId": "L992",
+              "lineLabel": "B",
+              "poiId": 15200253,
+              "terminus": "Zličín",
+              "type": "metro"
+             },
+             {
+              "departureDirection": 1,
+              "lineId": "L992",
+              "lineLabel": "B",
+              "poiId": 15200253,
+              "terminus": "Černý Most",
+              "type": "metro"
+             }
+            ],
+            "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_qC_A/nO2CysqjGrCDmo6JK8G3USNH/da97.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Luka",
+            "distance": 7426,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/262",
+            "lat": 50.0454323836,
+            "lon": 14.3220422408,
+            "name": "metro_5",
+            "source": "pubt",
+            "sourceId": 15206941,
+            "url": "https://mapy.cz/zakladni?x=14.3220422408&y=50.0454323836&z=17&source=pubt&id=15206941",
+            "lines": [],
+            "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_G_G/LSpjPF.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           }
+          ]
+         },
+         "doctors": {
+          "url": "https://www.firmy.cz/Prvni-pomoc-a-zdravotnictvi/Zdravotnicke-sluzby/Zdravotnicka-zarizeni?x=14.3624321092341&y=49.9839030299217&rt=adresa",
+          "values": [
+           {
+            "description": "MUDr. Roman Holzknecht",
+            "distance": 134,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/405",
+            "lat": 49.983028411865234,
+            "lon": 14.363729476928711,
+            "name": "medic",
+            "source": "firm",
+            "sourceId": 12977601,
+            "url": "https://www.firmy.cz/detail/12977601-mudr-roman-holzknecht-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRBOXzTBLNHzSadf/0857.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "MVDr. Barbora Schillová",
+            "distance": 259,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/164",
+            "lat": 49.98292541503906,
+            "lon": 14.359151840209961,
+            "name": "vet",
+            "source": "firm",
+            "sourceId": 2131900,
+            "url": "https://www.firmy.cz/detail/2131900-mvdr-barbora-schillova-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRD1EvuB80Hzz0ae/22a6.jpeg",
+            "rating": 5,
+            "reviewCount": 2
+           },
+           {
+            "description": "Veterinární ordinace a obchod Praha - Radotín",
+            "distance": 259,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/164",
+            "lat": 49.98292541503906,
+            "lon": 14.359151840209961,
+            "name": "vet_2",
+            "source": "firm",
+            "sourceId": 12985560,
+            "url": "https://www.firmy.cz/detail/12985560-veterinarni-ordinace-a-obchod-praha-radotin-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRIhAnVXHzz2ej/6b34.jpeg",
+            "rating": 4,
+            "reviewCount": 15
+           },
+           {
+            "description": "Praktický lékař Radotín, s.r.o.",
+            "distance": 376,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/405",
+            "lat": 49.98646545410156,
+            "lon": 14.365872383117676,
+            "name": "medic_2",
+            "source": "firm",
+            "sourceId": 12839238,
+            "url": "https://www.firmy.cz/detail/12839238-prakticky-lekar-radotin-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRB7OXg8vHzSKTh/06cd.jpeg",
+            "rating": 4,
+            "reviewCount": 7
+           },
+           {
+            "description": "MUDr. Irena Spilková",
+            "distance": 723,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/405",
+            "lat": 49.980194091796875,
+            "lon": 14.354133605957031,
+            "name": "medic_3",
+            "source": "firm",
+            "sourceId": 389540,
+            "url": "https://www.firmy.cz/detail/389540-mudr-irena-spilkova-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyBiPBFVnHzRs31/40c1.jpeg",
+            "rating": 5,
+            "reviewCount": 10
+           },
+           {
+            "description": "KERN MEDIK, s.r.o.",
+            "distance": 723,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/405",
+            "lat": 49.980194091796875,
+            "lon": 14.354133605957031,
+            "name": "medic_4",
+            "source": "firm",
+            "sourceId": 13004616,
+            "url": "https://www.firmy.cz/detail/13004616-kern-medik-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyBFnmYVnHzRspQ/560d.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "MUDr. Libuše Waldmannová, s.r.o.",
+            "distance": 723,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/405",
+            "lat": 49.980194091796875,
+            "lon": 14.354133605957031,
+            "name": "medic_5",
+            "source": "firm",
+            "sourceId": 13847549,
+            "url": "https://www.firmy.cz/detail/13847549-mudr-libuse-waldmannova-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRIhAnB8AHzRsqH/9ed2.jpeg",
+            "rating": 5,
+            "reviewCount": 1
+           },
+           {
+            "description": "ArtVET veterinarní ordinace",
+            "distance": 2427,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/164",
+            "lat": 49.97642517089844,
+            "lon": 14.39432144165039,
+            "name": "vet_3",
+            "source": "firm",
+            "sourceId": 13704302,
+            "url": "https://www.firmy.cz/detail/13704302-artvet-veterinarni-ordinace-praha-zbraslav.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_H_B/fgjZVa.jpeg",
+            "rating": 4,
+            "reviewCount": 10
+           },
+           {
+            "description": "MVDr. Kateřina Hýková",
+            "distance": 2640,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/164",
+            "lat": 49.97492218017578,
+            "lon": 14.396610260009766,
+            "name": "vet_4",
+            "source": "firm",
+            "sourceId": 2137638,
+            "url": "https://www.firmy.cz/detail/2137638-mvdr-katerina-hykova-praha-zbraslav.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_gZ_N/Fm2BMT.jpeg",
+            "rating": 4,
+            "reviewCount": 13
+           },
+           {
+            "description": "Veterinární klinika Zbraslav",
+            "distance": 2640,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/164",
+            "lat": 49.97492218017578,
+            "lon": 14.396610260009766,
+            "name": "vet_5",
+            "source": "firm",
+            "sourceId": 13105524,
+            "url": "https://www.firmy.cz/detail/13105524-veterinarni-klinika-zbraslav-praha-zbraslav.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_gT_N/JrvBBN.jpeg",
+            "rating": 4,
+            "reviewCount": 73
+           }
+          ]
+         },
+         "grocery": {
+          "url": "https://www.firmy.cz/Obchody-a-obchudky/Prodejci-potravin?x=14.3624321092341&y=49.9839030299217&rt=adresa",
+          "values": [
+           {
+            "description": "Žabka",
+            "distance": 20,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/423",
+            "lat": 49.98393249511719,
+            "lon": 14.362710952758789,
+            "name": "small_shop",
+            "source": "firm",
+            "sourceId": 12976625,
+            "url": "https://www.firmy.cz/detail/12976625-zabka-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_G_C/M8UBoYl.jpeg",
+            "rating": 5,
+            "reviewCount": 2
+           },
+           {
+            "description": "Potraviny N&M nákupní středisko",
+            "distance": 165,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/423",
+            "lat": 49.98491668701172,
+            "lon": 14.364118576049805,
+            "name": "small_shop_2",
+            "source": "firm",
+            "sourceId": 13752658,
+            "url": "https://www.firmy.cz/detail/13752658-potraviny-n-m-nakupni-stredisko-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_oV_B/kObgaqJNMnD1IUpZ7CNtBEC/a332.jpeg",
+            "rating": 5,
+            "reviewCount": 1
+           },
+           {
+            "description": "MTHAO Market",
+            "distance": 271,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/423",
+            "lat": 49.98588562011719,
+            "lon": 14.3602294921875,
+            "name": "small_shop_3",
+            "source": "firm",
+            "sourceId": 13724634,
+            "url": "https://www.firmy.cz/detail/13724634-mthao-market-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_qB_A/nCTUX1iX5CNPfpBzOEGqyreW/30d6.jpeg",
+            "rating": 5,
+            "reviewCount": 3
+           },
+           {
+            "description": "Potraviny u Zuzanky",
+            "distance": 490,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/423",
+            "lat": 49.98239517211914,
+            "lon": 14.355996131896973,
+            "name": "small_shop_4",
+            "source": "firm",
+            "sourceId": 13641830,
+            "url": "https://www.firmy.cz/detail/13641830-potraviny-u-zuzanky-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyBHthwGQEHxfKdL/991f.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Vyplatíse",
+            "distance": 519,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/423",
+            "lat": 49.986026763916016,
+            "lon": 14.368891716003418,
+            "name": "small_shop_5",
+            "source": "firm",
+            "sourceId": 13292767,
+            "url": "https://www.firmy.cz/detail/13292767-vyplatise-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_og_A/kOzkBkwYBTEBlmaGGgFOB4ko/6f0c.jpeg",
+            "rating": 5,
+            "reviewCount": 43
+           },
+           {
+            "description": "Kaufland",
+            "distance": 4517,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/101",
+            "lat": 50.024105072021484,
+            "lon": 14.353325843811035,
+            "name": "shop",
+            "source": "firm",
+            "sourceId": 13785500,
+            "url": "https://www.firmy.cz/detail/13785500-kaufland-praha.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_oW_A/kPWmeC9soBKkMNW2CeHpba/f6b9.jpeg",
+            "rating": 4,
+            "reviewCount": 51
+           },
+           {
+            "description": "Obchodní centrum Modřany",
+            "distance": 4632,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/419",
+            "lat": 50.00649642944336,
+            "lon": 14.416877746582031,
+            "name": "shop_2",
+            "source": "firm",
+            "sourceId": 13045936,
+            "url": "https://www.firmy.cz/detail/13045936-obchodni-centrum-modrany-praha-modrany.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_oa_A/nsLxLojIDjvKWN91DXIzHw/5174.jpeg",
+            "rating": 4,
+            "reviewCount": 3
+           },
+           {
+            "description": "Obchodní pasáž Sofie",
+            "distance": 4659,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/419",
+            "lat": 50.00577926635742,
+            "lon": 14.418012619018555,
+            "name": "shop_3",
+            "source": "firm",
+            "sourceId": 217785,
+            "url": "https://www.firmy.cz/detail/217785-obchodni-pasaz-sofie-praha-modrany.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_G_C/Al1B9Ej.jpeg",
+            "rating": 4,
+            "reviewCount": 7
+           },
+           {
+            "description": "Kaufland",
+            "distance": 5213,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/101",
+            "lat": 50.013572692871094,
+            "lon": 14.418906211853027,
+            "name": "shop_4",
+            "source": "firm",
+            "sourceId": 12700906,
+            "url": "https://www.firmy.cz/detail/12700906-kaufland-praha-modrany.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_QN_g/Ch0Uo.jpeg",
+            "rating": 3,
+            "reviewCount": 68
+           },
+           {
+            "description": "Centrum Velká Ohrada",
+            "distance": 6223,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/419",
+            "lat": 50.037696838378906,
+            "lon": 14.338422775268555,
+            "name": "shop_5",
+            "source": "firm",
+            "sourceId": 13184856,
+            "url": "https://www.firmy.cz/detail/13184856-centrum-velka-ohrada-praha-stodulky.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_QP_BD/AI1enG.jpeg",
+            "rating": 5,
+            "reviewCount": 2
+           }
+          ]
+         },
+         "leisure": {
+          "url": "https://mapy.cz/zakladni?x=14.3624321092341&y=49.9839030299217&z=16&q=volny%20%C4%8Das",
+          "values": [
+           {
+            "description": "",
+            "distance": 114,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/204",
+            "lat": 49.9846424696621,
+            "lon": 14.3613345738659,
+            "name": "playground",
+            "source": "base",
+            "sourceId": 2383367,
+            "url": "https://mapy.cz/zakladni?x=14.3613345738659&y=49.9846424696621&z=17&source=base&id=2383367",
+            "lines": [],
+            "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_QP_n/CbgBQH.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Dětské hřiště Radotín",
+            "distance": 224,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/204",
+            "lat": 49.9850152866,
+            "lon": 14.3598272909,
+            "name": "playground_2",
+            "source": "base",
+            "sourceId": 1926306,
+            "url": "https://mapy.cz/zakladni?x=14.3598272909&y=49.9850152866&z=17&source=base&id=1926306",
+            "lines": [],
+            "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_qD_B/nOa03Se6MmDfr1PGG0HSYIWL/5f00.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "",
+            "distance": 229,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/204",
+            "lat": 49.9822401343,
+            "lon": 14.3643216897,
+            "name": "playground_3",
+            "source": "base",
+            "sourceId": 2178184,
+            "url": "https://mapy.cz/zakladni?x=14.3643216897&y=49.9822401343&z=17&source=base&id=2178184",
+            "lines": [],
+            "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_oY_A/nsLxLojIDtIIllJC7zAfJ/caab.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Dětské hřiště Prvomájová",
+            "distance": 270,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/204",
+            "lat": 49.9851386188,
+            "lon": 14.3591798306,
+            "name": "playground_4",
+            "source": "base",
+            "sourceId": 2104327,
+            "url": "https://mapy.cz/zakladni?x=14.3591798306&y=49.9851386188&z=17&source=base&id=2104327",
+            "lines": [],
+            "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_qD_B/kOyy3Gv43yCpHP2BgaHSYFbI/b49b.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Víceúčelové sportovní hřiště",
+            "distance": 291,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/144",
+            "lat": 49.98503124870993,
+            "lon": 14.358761887997384,
+            "name": "sports",
+            "source": "base",
+            "sourceId": 2639320,
+            "url": "https://mapy.cz/zakladni?x=14.358761887997384&y=49.98503124870993&z=17&source=base&id=2639320",
+            "lines": [],
+            "photoUrl": "https://d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRCO7AFDRnHz96g0/ae48.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Dětské hřiště Prvomájová",
+            "distance": 335,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/204",
+            "lat": 49.9846772397,
+            "lon": 14.3578984285,
+            "name": "playground_5",
+            "source": "base",
+            "sourceId": 1926618,
+            "url": "https://mapy.cz/zakladni?x=14.3578984285&y=49.9846772397&z=17&source=base&id=1926618",
+            "lines": [],
+            "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_qD_B/kOyy3Gv43yDmAsMBUhHSYG8z/b50b.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Kino Radotín",
+            "distance": 435,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/62",
+            "lat": 49.9841423034668,
+            "lon": 14.356354713439941,
+            "name": "movies",
+            "source": "firm",
+            "sourceId": 457358,
+            "url": "https://www.firmy.cz/detail/457358-kino-radotin-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_G_C/Wgkizb.jpeg",
+            "rating": 5,
+            "reviewCount": 14
+           },
+           {
+            "description": "TJ Sokol Radotín",
+            "distance": 449,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/144",
+            "lat": 49.987937927246094,
+            "lon": 14.362451553344727,
+            "name": "sports_2",
+            "source": "firm",
+            "sourceId": 403935,
+            "url": "https://www.firmy.cz/detail/403935-tj-sokol-radotin-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_gY_f/4yvF13.jpeg",
+            "rating": 5,
+            "reviewCount": 1
+           },
+           {
+            "description": "Softballové hřiště RSK",
+            "distance": 535,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/144",
+            "lat": 49.98123719120513,
+            "lon": 14.35620704907376,
+            "name": "sports_3",
+            "source": "base",
+            "sourceId": 2406245,
+            "url": "https://mapy.cz/zakladni?x=14.35620704907376&y=49.98123719120513&z=17&source=base&id=2406245",
+            "lines": [],
+            "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_gQ_q/Wg3k9J.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Biotop Radotín",
+            "distance": 571,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/67",
+            "lat": 49.97905731201172,
+            "lon": 14.359782218933105,
+            "name": "sports_4",
+            "source": "firm",
+            "sourceId": 12958216,
+            "url": "https://www.hygpraha.cz/koupaliste/",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_p9_A/kcHp2YdDtEDuRmDUaGCJoe6/2d01.jpeg",
+            "rating": 4,
+            "reviewCount": 117
+           },
+           {
+            "description": "Pétanque Radotín",
+            "distance": 673,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/458",
+            "lat": 49.9787672912,
+            "lon": 14.3574494555,
+            "name": "sports_5",
+            "source": "base",
+            "sourceId": 2117181,
+            "url": "https://mapy.cz/zakladni?x=14.3574494555&y=49.9787672912&z=17&source=base&id=2117181",
+            "lines": [],
+            "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_gX_d/W5vWHw.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Divadlo Jana Kašky",
+            "distance": 2596,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/39",
+            "lat": 49.97565460205078,
+            "lon": 14.39638900756836,
+            "name": "theater",
+            "source": "firm",
+            "sourceId": 12978086,
+            "url": "https://www.firmy.cz/detail/12978086-divadlo-jana-kasky-praha-zbraslav.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_p7_A/nDJ4VEZEqxQDMWpyFiIzZI/fe9b.jpeg",
+            "rating": 5,
+            "reviewCount": 6
+           },
+           {
+            "description": "Letní Kino Kamínka",
+            "distance": 2878,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/62",
+            "lat": 49.96411895751953,
+            "lon": 14.38839054107666,
+            "name": "movies_2",
+            "source": "firm",
+            "sourceId": 13066174,
+            "url": "https://www.firmy.cz/detail/13066174-letni-kino-kaminka-praha-zbraslav.html",
+            "lines": [],
+            "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_oc_A/kcukOQcMmBOhkhCM3ECpWwx/8420.jpeg",
+            "rating": 5,
+            "reviewCount": 1
+           },
+           {
+            "description": "Divadlo Na Cikorce",
+            "distance": 4788,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/39",
+            "lat": 50.0119743347168,
+            "lon": 14.41321849822998,
+            "name": "theater_2",
+            "source": "firm",
+            "sourceId": 2387865,
+            "url": "https://www.firmy.cz/detail/2387865-divadlo-na-cikorce-praha-modrany.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_gV_d/hxLDz.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Kovářovic mez",
+            "distance": 6678,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/368",
+            "lat": 50.04395254566995,
+            "lon": 14.36107759920759,
+            "name": "natural_attraction",
+            "source": "base",
+            "sourceId": 2339664,
+            "url": "https://mapy.cz/zakladni?x=14.36107759920759&y=50.04395254566995&z=17&source=base&id=2339664",
+            "lines": [],
+            "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_p7_A/kOzkBkwYBTBLrRlPWKFg4gow/dac4.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Loutkové divadlo Zvoneček",
+            "distance": 6790,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/39",
+            "lat": 50.024723052978516,
+            "lon": 14.433095932006836,
+            "name": "theater_3",
+            "source": "firm",
+            "sourceId": 397112,
+            "url": "https://www.firmy.cz/detail/397112-loutkove-divadlo-zvonecek-praha-lhotka.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_G_I/lMW9Tl.jpeg",
+            "rating": 5,
+            "reviewCount": 4
+           },
+           {
+            "description": "Divadlo BRAVO!",
+            "distance": 6844,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/39",
+            "lat": 50.03583908081055,
+            "lon": 14.413837432861328,
+            "name": "theater_4",
+            "source": "firm",
+            "sourceId": 13247208,
+            "url": "https://www.firmy.cz/detail/13247208-divadlo-bravo-praha-branik.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_QO_i/cjVFVl.jpeg",
+            "rating": 5,
+            "reviewCount": 25
+           },
+           {
+            "description": "Divadelní studio Bubec",
+            "distance": 6988,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/39",
+            "lat": 50.036521911621094,
+            "lon": 14.308953285217285,
+            "name": "theater_5",
+            "source": "firm",
+            "sourceId": 13047862,
+            "url": "https://www.firmy.cz/detail/13047862-divadelni-studio-bubec-praha-reporyje.html",
+            "lines": [],
+            "photoUrl": "https://d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKREB0TcCgDHzPayD/636b.jpeg",
+            "rating": 2,
+            "reviewCount": 1
+           },
+           {
+            "description": "Sunset Cinema",
+            "distance": 9261,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/62",
+            "lat": 50.05104446411133,
+            "lon": 14.439119338989258,
+            "name": "movies_3",
+            "source": "firm",
+            "sourceId": 13482074,
+            "url": "https://www.firmy.cz/detail/13482074-sunset-cinema-praha-nusle.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_oZ_A/kBkJRwehYBO1ofBv7DLa404/cbf8.jpeg",
+            "rating": 4,
+            "reviewCount": 7
+           }
+          ]
+         },
+         "restaurants": {
+          "url": "https://www.firmy.cz/Restauracni-a-pohostinske-sluzby?x=14.3624321092341&y=49.9839030299217&rt=adresa",
+          "values": [
+           {
+            "description": "VELO Restaurant",
+            "distance": 121,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/133",
+            "lat": 49.984718322753906,
+            "lon": 14.36131763458252,
+            "name": "restaurant",
+            "source": "firm",
+            "sourceId": 13235451,
+            "url": "https://www.firmy.cz/detail/13235451-velo-restaurant-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_E_H/SKGGtz.jpeg",
+            "rating": 5,
+            "reviewCount": 44
+           },
+           {
+            "description": "Hospůdka u draka v exilu",
+            "distance": 195,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/362",
+            "lat": 49.98434066772461,
+            "lon": 14.359792709350586,
+            "name": "tavern",
+            "source": "firm",
+            "sourceId": 13811765,
+            "url": "https://www.firmy.cz/detail/13811765-hospudka-u-draka-v-exilu-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_oY_A/kBkJRwehYQrbpr7C2i9kU/21f1.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Hospůdka U Draka v exilu",
+            "distance": 197,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/362",
+            "lat": 49.98440170288086,
+            "lon": 14.35979175567627,
+            "name": "tavern_2",
+            "source": "firm",
+            "sourceId": 13121637,
+            "url": "https://www.firmy.cz/detail/13121637-hospudka-u-draka-v-exilu-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_oY_A/kBkJRwehYVnG3jAC16tPZ/e398.jpeg",
+            "rating": 5,
+            "reviewCount": 1
+           },
+           {
+            "description": "Cukrárna Panda",
+            "distance": 199,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/38",
+            "lat": 49.98524856567383,
+            "lon": 14.364258766174316,
+            "name": "candy_shop",
+            "source": "firm",
+            "sourceId": 13890511,
+            "url": "https://www.firmy.cz/detail/13890511-cukrarna-panda-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRB7OXgBAGHzTOwe/896a.jpeg",
+            "rating": 5,
+            "reviewCount": 2
+           },
+           {
+            "description": "Restaurace Rozmarýn",
+            "distance": 213,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/133",
+            "lat": 49.983062744140625,
+            "lon": 14.359756469726562,
+            "name": "restaurant_2",
+            "source": "firm",
+            "sourceId": 13282543,
+            "url": "https://www.firmy.cz/detail/13282543-restaurace-rozmaryn-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_oW_A/kObgaqJNMnwQ71rQCWmO07/159b.jpeg",
+            "rating": 4,
+            "reviewCount": 37
+           },
+           {
+            "description": "Pho Radotin",
+            "distance": 229,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/133",
+            "lat": 49.985260009765625,
+            "lon": 14.364842414855957,
+            "name": "restaurant_3",
+            "source": "firm",
+            "sourceId": 13137911,
+            "url": "https://www.firmy.cz/detail/13137911-pho-radotin-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_od_A/kBlLbSfl8BOkUvB5UEc9Bhd/ca4f.mpo",
+            "rating": 5,
+            "reviewCount": 19
+           },
+           {
+            "description": "CUKRÁRNA HANNY",
+            "distance": 256,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/38",
+            "lat": 49.98421096801758,
+            "lon": 14.358880043029785,
+            "name": "candy_shop_2",
+            "source": "firm",
+            "sourceId": 1973920,
+            "url": "https://www.firmy.cz/detail/1973920-cukrarna-hanny-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_ob_A/nPTQKDwGerpxkyB3rD3y4B6/4fe0.jpeg",
+            "rating": 3,
+            "reviewCount": 13
+           },
+           {
+            "description": "MiKay restaurace",
+            "distance": 260,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/133",
+            "lat": 49.98563766479492,
+            "lon": 14.364866256713867,
+            "name": "restaurant_4",
+            "source": "firm",
+            "sourceId": 13167131,
+            "url": "https://www.firmy.cz/detail/13167131-mikay-restaurace-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_m3_A/nPt0vAiT3tBYG5BSgBmAptd/790f.mpo",
+            "rating": 3,
+            "reviewCount": 8
+           },
+           {
+            "description": "Pasta Fresca čerstvé těstoviny",
+            "distance": 262,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/133",
+            "lat": 49.982906341552734,
+            "lon": 14.36575698852539,
+            "name": "restaurant_5",
+            "source": "firm",
+            "sourceId": 13859648,
+            "url": "https://www.firmy.cz/detail/13859648-pasta-fresca-cerstve-testoviny-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_ob_A/kBj94XhVwDhmNhBikDx1Xc9/bbd4.jpeg",
+            "rating": 5,
+            "reviewCount": 2
+           },
+           {
+            "description": "Restaurace pivní Sanatorium",
+            "distance": 755,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/362",
+            "lat": 49.99039840698242,
+            "lon": 14.365510940551758,
+            "name": "tavern_3",
+            "source": "firm",
+            "sourceId": 2466288,
+            "url": "https://www.firmy.cz/detail/2466288-restaurace-pivni-sanatorium-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_H_D/mLFiSr.jpeg",
+            "rating": 5,
+            "reviewCount": 12
+           },
+           {
+            "description": "Hospůdka na Slavoji",
+            "distance": 2039,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/362",
+            "lat": 49.97101593017578,
+            "lon": 14.382710456848145,
+            "name": "tavern_4",
+            "source": "firm",
+            "sourceId": 12717064,
+            "url": "https://www.firmy.cz/detail/12717064-hospudka-na-slavoji-praha-zbraslav.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_oc_A/nPvSisOTaMtTNgBLwEEVp5n/9ba0.jpeg",
+            "rating": 5,
+            "reviewCount": 8
+           },
+           {
+            "description": "Hostinec U Bláhů",
+            "distance": 2127,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/362",
+            "lat": 49.96765899658203,
+            "lon": 14.378142356872559,
+            "name": "tavern_5",
+            "source": "firm",
+            "sourceId": 13127532,
+            "url": "https://www.firmy.cz/detail/13127532-hostinec-u-blahu-praha-zbraslav.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_QI_y/LUDBkMp.jpeg",
+            "rating": 5,
+            "reviewCount": 17
+           },
+           {
+            "description": "Cukrárna U Zámku - Ivana Korecká",
+            "distance": 2343,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/38",
+            "lat": 49.97636032104492,
+            "lon": 14.393033027648926,
+            "name": "candy_shop_3",
+            "source": "firm",
+            "sourceId": 2432279,
+            "url": "https://www.firmy.cz/detail/2432279-cukrarna-u-zamku-praha.html",
+            "lines": [],
+            "photoUrl": "https://d34-a.sdn.cz/d_34/c_img_oZ_A/nsLxLojID1ZUrFTNDKAnC0/9209.jpeg",
+            "rating": 4,
+            "reviewCount": 13
+           },
+           {
+            "description": "CUKRÁRNA HANNY",
+            "distance": 2406,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/38",
+            "lat": 49.97645950317383,
+            "lon": 14.394025802612305,
+            "name": "candy_shop_4",
+            "source": "firm",
+            "sourceId": 12944740,
+            "url": "https://www.firmy.cz/detail/12944740-cukrarna-hanny-praha-zbraslav.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_H_D/dFcBgUl.jpeg",
+            "rating": 3,
+            "reviewCount": 45
+           },
+           {
+            "description": "Sluneční cukrárna",
+            "distance": 2429,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/38",
+            "lat": 49.96815490722656,
+            "lon": 14.385978698730469,
+            "name": "candy_shop_5",
+            "source": "firm",
+            "sourceId": 2139751,
+            "url": "https://www.firmy.cz/detail/2139751-slunecni-cukrarna-praha-zbraslav.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_F_G/l5QBCr.jpeg",
+            "rating": 5,
+            "reviewCount": 14
+           }
+          ]
+         },
+         "schools": {
+          "url": "https://www.firmy.cz/Instituce-a-urady/Vzdelavaci-instituce?x=14.3624321092341&y=49.9839030299217&rt=adresa",
+          "values": [
+           {
+            "description": "Gymnázium Oty Pavla",
+            "distance": 311,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/142",
+            "lat": 49.981319427490234,
+            "lon": 14.360776901245117,
+            "name": "school",
+            "source": "firm",
+            "sourceId": 362392,
+            "url": "https://www.firmy.cz/detail/362392-gymnazium-oty-pavla-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_H_D/DjPiJO.jpeg",
+            "rating": 4,
+            "reviewCount": 10
+           },
+           {
+            "description": "MŠ Praha - Radotín, Náměstí Osvoboditelů 1367",
+            "distance": 411,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/412",
+            "lat": 49.9847297668457,
+            "lon": 14.35682487487793,
+            "name": "kindergarten",
+            "source": "firm",
+            "sourceId": 2336183,
+            "url": "https://www.firmy.cz/detail/2336183-ms-praha-radotin-namesti-osvoboditelu-1367-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRBOXzTB5xHz0DG8/1fdd.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "ZUŠ Klementa Slavického, Praha 5, náměstí Osvoboditelů",
+            "distance": 432,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/142",
+            "lat": 49.983009338378906,
+            "lon": 14.356551170349121,
+            "name": "school_2",
+            "source": "firm",
+            "sourceId": 2215885,
+            "url": "https://www.firmy.cz/detail/2215885-zus-klementa-slavickeho-praha-5-namesti-osvoboditelu-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_gS_q/iVadQ.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "MŠ Praha - Radotín, Náměstí Osvoboditelů 1368",
+            "distance": 433,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/412",
+            "lat": 49.985145568847656,
+            "lon": 14.35668659210205,
+            "name": "kindergarten_2",
+            "source": "firm",
+            "sourceId": 12941349,
+            "url": "https://www.firmy.cz/detail/12941349-ms-praha-radotin-namesti-osvoboditelu-1368-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d18-a.sdn.cz/d_18/c_img_qF_C/nOdL4BtPEyBHthwBbdHz0D0S/bf60.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "ZŠ, Praha 5, nám. Osvoboditelů",
+            "distance": 433,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/142",
+            "lat": 49.985145568847656,
+            "lon": 14.35668659210205,
+            "name": "school_3",
+            "source": "firm",
+            "sourceId": 358996,
+            "url": "https://www.firmy.cz/detail/358996-zs-praha-5-nam-osvoboditelu-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d18-a.sdn.cz/d_18/c_img_qF_C/k0OqwCKRB7OXgB71Hz0C79/e1d2.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Miniškolka Lístek",
+            "distance": 456,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/412",
+            "lat": 49.98772048950195,
+            "lon": 14.360119819641113,
+            "name": "kindergarten_3",
+            "source": "firm",
+            "sourceId": 13196470,
+            "url": "https://www.firmy.cz/detail/13196470-miniskolka-listek-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_gV_T/UOsITC.jpeg",
+            "rating": 5,
+            "reviewCount": 1
+           },
+           {
+            "description": "Soukromá ZŠ a MŠ Petrklíč",
+            "distance": 462,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/412",
+            "lat": 49.98530197143555,
+            "lon": 14.356348037719727,
+            "name": "kindergarten_4",
+            "source": "firm",
+            "sourceId": 2298091,
+            "url": "https://www.firmy.cz/detail/2298091-soukroma-zs-a-ms-petrklic-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_H_D/kjkiky.jpeg",
+            "rating": 4,
+            "reviewCount": 3
+           },
+           {
+            "description": "ZŠ Praha - Radotín",
+            "distance": 483,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/142",
+            "lat": 49.98018264770508,
+            "lon": 14.358939170837402,
+            "name": "school_4",
+            "source": "firm",
+            "sourceId": 356118,
+            "url": "https://www.firmy.cz/detail/356118-zs-praha-radotin-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_G_C/PMciX4.jpeg",
+            "rating": 5,
+            "reviewCount": 2
+           },
+           {
+            "description": "MŠ Praha - Radotín, Býšovská",
+            "distance": 528,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/412",
+            "lat": 49.988460540771484,
+            "lon": 14.364521980285645,
+            "name": "kindergarten_5",
+            "source": "firm",
+            "sourceId": 2336192,
+            "url": "https://www.firmy.cz/detail/2336192-ms-praha-radotin-bysovska-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_H_D/EqDiTa.jpeg",
+            "rating": -1,
+            "reviewCount": 0
+           },
+           {
+            "description": "Střední odborné učiliště, Praha - Radotín",
+            "distance": 566,
+            "imgUrl": "https://api.mapy.cz/poiimg/icon/142",
+            "lat": 49.9868278503418,
+            "lon": 14.355949401855469,
+            "name": "school_5",
+            "source": "firm",
+            "sourceId": 232180,
+            "url": "https://www.firmy.cz/detail/232180-stredni-odborne-uciliste-praha-radotin-praha-radotin.html",
+            "lines": [],
+            "photoUrl": "https://d48-a.sdn.cz/d_48/c_img_m3_A/nEEmzB06ylFXFdK3YgV/a8f1.jpeg",
+            "rating": 4,
+            "reviewCount": 6
+           }
+          ]
+         }
+        },
+        "isExclusively": false,
+        "rusReply": null,
+        "params": {
+         "advertCode": "2689",
+         "costOfLiving": "",
+         "project": null,
+         "acceptanceYear": null,
+         "balcony": false,
+         "balconyArea": null,
+         "basin": false,
+         "basinArea": null,
+         "beginningDate": null,
+         "buildingArea": null,
+         "buildingCondition": {
+          "name": "Dobrý",
+          "value": 2
+         },
+         "buildingType": {
+          "name": "Cihlová",
+          "value": 2
+         },
+         "cellar": false,
+         "cellarArea": null,
+         "circuitBreakerCb": null,
+         "commission": 0,
+         "easyAccess": {
+          "name": "Ne",
+          "value": 2
+         },
+         "edited": "2026-09-19",
+         "electricitySet": [],
+         "elevator": {
+          "name": "- nezadáno",
+          "value": 0
+         },
+         "energyEfficiencyRating": {
+          "name": "- vyber třídu",
+          "value": 0
+         },
+         "energyPerformanceCertificate": {
+          "name": "Nedefinováno",
+          "value": 0
+         },
+         "energyPerformanceSummary": null,
+         "finishDate": null,
+         "firstTourDate": null,
+         "firstTourDateTo": null,
+         "flatClass": {
+          "name": "Mezonet",
+          "value": 1
+         },
+         "floorArea": 85,
+         "floorNumber": 4,
+         "floors": 4,
+         "furnished": {
+          "name": "- vyber vybavení",
+          "value": 0
+         },
+         "garage": false,
+         "garageCount": null,
+         "gardenArea": null,
+         "garret": null,
+         "gasSet": [],
+         "gullySet": [],
+         "heatingElementSet": [],
+         "heatingSet": [],
+         "heatingSourceSet": [],
+         "internetConnectionProvider": null,
+         "internetConnectionSpeed": null,
+         "internetConnectionTypeSet": [],
+         "keywords": null,
+         "leaseType": {
+          "name": "Nájem",
+          "value": 1
+         },
+         "loggia": false,
+         "loggiaArea": null,
+         "lowEnergy": false,
+         "objectAge": null,
+         "objectLocation": {
+          "name": "- vyber umístění",
+          "value": 0
+         },
+         "ownership": {
+          "name": "Osobní",
+          "value": 1
+         },
+         "parking": null,
+         "parkingLots": false,
+         "personal": {
+          "name": "- vyber možnost",
+          "value": 0
+         },
+         "phaseDistributionsCb": null,
+         "protection": {
+          "name": "- vyber ochranu",
+          "value": 0
+         },
+         "readyDate": "2026-09-19",
+         "reconstructionYear": null,
+         "roadTypeSet": [],
+         "sdnEnergyPerformanceAttachmentUrl": null,
+         "since": "2026-09-19",
+         "stateCb": {
+          "name": "- vyber stav",
+          "value": 0
+         },
+         "stats": 0,
+         "surroundingsType": {
+          "name": "- vyber zástavbu",
+          "value": 0
+         },
+         "telecommunicationSet": [],
+         "tenantNotPayCommission": null,
+         "terrace": false,
+         "terraceArea": null,
+         "transportSet": [],
+         "undergroundFloors": null,
+         "usableArea": 85,
+         "waterHeatSourceSet": [],
+         "waterSet": [],
+         "wellTypeSet": [],
+         "refundableDeposit": null,
+         "priceFlagNegotiationCb": false,
+         "priceNote": null
+        }
+       },
+       "dataUpdateCount": 1,
+       "dataUpdatedAt": 1789822096124,
+       "error": null,
+       "errorUpdateCount": 0,
+       "errorUpdatedAt": 0,
+       "fetchFailureCount": 0,
+       "fetchFailureReason": null,
+       "fetchMeta": null,
+       "isInvalidated": false,
+       "status": "success",
+       "fetchStatus": "idle"
+      },
+      "queryKey": [
+       "estate",
+       {
+        "id": 1690837068,
+        "preview": false,
+        "lang": "cs"
+       }
+      ],
+      "queryHash": "[\"estate\",{\"id\":1690837068,\"lang\":\"cs\",\"preview\":false}]"
+     }
+    ]
+   }
+  }
+ }
+}
